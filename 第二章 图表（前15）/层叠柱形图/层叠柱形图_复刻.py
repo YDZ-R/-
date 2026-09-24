@@ -75,12 +75,12 @@ ax.text(52, 54, '2021年至今季度销售额(万)和利润额(万)', color='whi
 ax.text(50, 119, '2022年第二季度销售额首次出现下降，降幅达到15%', color='white',
         fontsize=16, ha='left', va='top', zorder=5)
 
-# legend boxes (outline rectangles, transparent interior + white text)
+# legend boxes (border + solid bg-colored interior that covers the bars behind)
 # sales legend: x691-777, y315-342, blue border
-ax.add_patch(Rectangle((691, 315), 86, 27, facecolor='none', edgecolor=BLUE, linewidth=1.5, zorder=6))
+ax.add_patch(Rectangle((691, 315), 86, 27, facecolor=BG, edgecolor=BLUE, linewidth=1.5, zorder=6))
 ax.text(734, 328, '销售额', color='white', fontsize=13, ha='center', va='center', zorder=7)
 # profit legend: x690-776, y361-388, red border
-ax.add_patch(Rectangle((690, 361), 86, 27, facecolor='none', edgecolor=RED, linewidth=1.5, zorder=6))
+ax.add_patch(Rectangle((690, 361), 86, 27, facecolor=BG, edgecolor=RED, linewidth=1.5, zorder=6))
 ax.text(733, 374, '利润额', color='white', fontsize=13, ha='center', va='center', zorder=7)
 
 # note
