@@ -65,7 +65,7 @@ for i in range(5):
     x_arr = (DB_X[i] + LB_X[i]) / 2
     y_from = BASE - h1
     y_to = BASE - h2
-    ax.annotate('', xy=(x_arr, y_to+2), xytext=(x_arr, y_from-2),
+    ax.annotate('', xy=(x_arr, y_from+2), xytext=(x_arr, y_to-2),
                 arrowprops=dict(facecolor='white', edgecolor='white',
                                 width=1, headwidth=6, headlength=6),
                 zorder=4)
