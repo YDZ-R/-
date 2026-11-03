@@ -1,0 +1,13 @@
+﻿params,mean_test_score,std_test_score
+"{'decisiontreeclassifier__max_depth': 2, 'decisiontreeclassifier__min_samples_leaf': 5}",0.6608173706005307,0.07572160480576297
+"{'decisiontreeclassifier__max_depth': 2, 'decisiontreeclassifier__min_samples_leaf': 20}",0.6188204684427308,0.04465205593564714
+"{'decisiontreeclassifier__max_depth': 2, 'decisiontreeclassifier__min_samples_leaf': 50}",0.656950212470912,0.0742770141789262
+"{'decisiontreeclassifier__max_depth': 3, 'decisiontreeclassifier__min_samples_leaf': 5}",0.6533862648193901,0.0760269043242014
+"{'decisiontreeclassifier__max_depth': 3, 'decisiontreeclassifier__min_samples_leaf': 20}",0.6286589120090704,0.04380407223254195
+"{'decisiontreeclassifier__max_depth': 3, 'decisiontreeclassifier__min_samples_leaf': 50}",0.6493233596023285,0.07474709453636125
+"{'decisiontreeclassifier__max_depth': 4, 'decisiontreeclassifier__min_samples_leaf': 5}",0.6557706039619855,0.07683833378550325
+"{'decisiontreeclassifier__max_depth': 4, 'decisiontreeclassifier__min_samples_leaf': 20}",0.6282038578329272,0.04392673054908938
+"{'decisiontreeclassifier__max_depth': 4, 'decisiontreeclassifier__min_samples_leaf': 50}",0.6510249856005045,0.07460498180653151
+"{'decisiontreeclassifier__max_depth': 5, 'decisiontreeclassifier__min_samples_leaf': 5}",0.6557706039619855,0.07683833378550325
+"{'decisiontreeclassifier__max_depth': 5, 'decisiontreeclassifier__min_samples_leaf': 20}",0.629104718655491,0.04425331890665832
+"{'decisiontreeclassifier__max_depth': 5, 'decisiontreeclassifier__min_samples_leaf': 50}",0.6510249856005045,0.07460498180653151

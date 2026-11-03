@@ -1,0 +1,15 @@
+{
+  "rows": 600,
+  "features": [
+    "cnt_call",
+    "cnt_msg",
+    "cnt_wei",
+    "cnt_web"
+  ],
+  "explained_ratio": [
+    0.6251044152079613,
+    0.24620209276953045
+  ],
+  "cumulative_two": 0.8713065079774918,
+  "note": "PCA轴的正负号可整体翻转，不代表业务方向发生变化。"
+}

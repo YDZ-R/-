@@ -1,0 +1,10 @@
+{
+  "purchase_records": 440,
+  "sales": 23584352.0,
+  "target": 25000000,
+  "achievement": 0.94337408,
+  "linear_pace_estimate": 25210859.03448276,
+  "required_daily_for_remaining_days": 707824.0,
+  "application_rows": 1597,
+  "note": "线性进度只是情景测算；贷款申请与理财销售没有可核验主键，分别汇总。"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_rows": 60000,
+  "train_rows": 39000,
+  "test_rows": 21000,
+  "fraud_rows": 104,
+  "test_fraud_rows": 36,
+  "auc": 0.9758183340753461,
+  "average_precision": 0.2217353220942441,
+  "precision": 0.08354430379746836,
+  "recall": 0.9166666666666666,
+  "contamination": 0.02,
+  "note": "原284807条数据按Class分层抽60000条，保持类别比例；种子241。固定2%异常预算不等于真实欺诈率。"
+}

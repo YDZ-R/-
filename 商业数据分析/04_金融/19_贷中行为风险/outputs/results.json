@@ -1,0 +1,16 @@
+{
+  "balance_rows": 617799,
+  "account_rows": 47523,
+  "customers": 40142,
+  "train_customers": 26895,
+  "feature_count": 20,
+  "test_rows": 13247,
+  "positive_rows": 2135,
+  "auc": 0.8012369689581742,
+  "average_precision": 0.5661524689604948,
+  "threshold": 0.5,
+  "precision": 0.8127925117004681,
+  "recall": 0.24402810304449649,
+  "ks": 0.47456698077736914,
+  "note": "精选还款/逾期/额度聚合与逻辑回归，未使用toad。教材未提供标签实际起止日期，当前是客户留出验证，不宣称时间外泛化。"
+}

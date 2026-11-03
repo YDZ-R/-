@@ -1,0 +1,23 @@
+{
+  "raw_rows": 4500,
+  "clean_rows": 4500,
+  "chunks": 5,
+  "duplicate_rows": 0,
+  "missing_cells": 0,
+  "customers": 4500,
+  "cap_bounds": {
+    "CNT_TBM": [
+      10.0,
+      310.02000000000044
+    ],
+    "CNT_ATM": [
+      3.0,
+      88.0
+    ],
+    "CNT_POS": [
+      2.0,
+      104.01000000000022
+    ]
+  },
+  "note": "教材预处理练习；未人为制造缺失，盖帽的统计影响不等同于发现业务错误。"
+}

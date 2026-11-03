@@ -1,0 +1,13 @@
+{
+  "raw_rows": 65989,
+  "excluded_nonpositive_rows": 0,
+  "customers": 7178,
+  "orders": 26735,
+  "reference_date": "2019-07-25",
+  "median_thresholds": {
+    "R": 59.0,
+    "F": 2.0,
+    "M": 282.0
+  },
+  "largest_segment": "一般挽留"
+}

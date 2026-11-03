@@ -1,0 +1,30 @@
+{
+  "rows": 30000,
+  "train_rows": 20100,
+  "selected_features": [
+    "Score2",
+    "Score3",
+    "Score1",
+    "Bureau_Var1033",
+    "Bureau_Var21",
+    "Bureau_Var1048",
+    "Age",
+    "DAYS_EMPLOYED",
+    "Bureau_Var1089",
+    "IP_Var24",
+    "Bureau_Var1060",
+    "Bureau_Var1061"
+  ],
+  "base_score": 600,
+  "base_good_bad_odds": 35,
+  "pdo": 50,
+  "test_rows": 9900,
+  "positive_rows": 783,
+  "auc": 0.7265616518395526,
+  "average_precision": 0.18772750941059238,
+  "threshold": 0.5,
+  "precision": 0.42857142857142855,
+  "recall": 0.0038314176245210726,
+  "ks": 0.35555404265619744,
+  "note": "以训练集五分位箱替代教材toad决策树分箱与逐步回归，保留WOE评分卡逻辑；不是复现同一组最优系数，不用于真实授信。"
+}

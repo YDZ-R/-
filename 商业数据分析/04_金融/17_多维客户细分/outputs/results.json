@@ -1,0 +1,12 @@
+{
+  "rows": 167177,
+  "household_groups": 3,
+  "hobby_groups": 2,
+  "factor_iterations": [
+    83,
+    19
+  ],
+  "factor_tolerance_per_observation": 1e-05,
+  "household_silhouette": 0.19360413505434085,
+  "note": "sklearn旋转因子替代旧FactorAnalysis库；保留家庭4因子/3群、兴趣3因子/2群框架，标签不要求与教材逐一相同。"
+}

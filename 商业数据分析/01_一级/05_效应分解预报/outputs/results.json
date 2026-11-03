@@ -1,0 +1,9 @@
+{
+  "months": 144,
+  "train_months": 132,
+  "test_months": 12,
+  "rmse": 15.810384393165224,
+  "mape": 2.2074221877743234,
+  "naive_rmse": 50.708316214732804,
+  "note": "此项为效应分解法的Python迁移，不声称数值等于PowerBI内部实现。"
+}

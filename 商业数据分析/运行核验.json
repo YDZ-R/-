@@ -1,0 +1,154 @@
+{
+  "experiments": 20,
+  "per_book": {
+    "一级": 5,
+    "二级": 5,
+    "三级": 5,
+    "金融": 5
+  },
+  "total_figures": 40,
+  "source_hashes": "通过",
+  "checks": "脚本语法、来源哈希、实际结果、CSV、图片完整性与分辨率",
+  "details": [
+    {
+      "id": "01",
+      "book": "一级",
+      "title": "RFM客户价值",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "02",
+      "book": "一级",
+      "title": "收入趋势与结构",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "03",
+      "book": "一级",
+      "title": "银行经营看板迁移",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "04",
+      "book": "一级",
+      "title": "SQL客户画像",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "05",
+      "book": "一级",
+      "title": "效应分解预报",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "06",
+      "book": "二级",
+      "title": "数据整合清洗",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "07",
+      "book": "二级",
+      "title": "分层抽样",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "08",
+      "book": "二级",
+      "title": "主成分分析",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "09",
+      "book": "二级",
+      "title": "线性回归",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "10",
+      "book": "二级",
+      "title": "KMeans用户细分",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "11",
+      "book": "三级",
+      "title": "银行交叉销售关联规则",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "12",
+      "book": "三级",
+      "title": "申请反欺诈分类",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "13",
+      "book": "三级",
+      "title": "异常交易识别",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "14",
+      "book": "三级",
+      "title": "SARIMA销量预测",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "15",
+      "book": "三级",
+      "title": "线性规划资源分配",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "16",
+      "book": "金融",
+      "title": "贷款精准营销",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "17",
+      "book": "金融",
+      "title": "多维客户细分",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "18",
+      "book": "金融",
+      "title": "贷前信用风险",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "19",
+      "book": "金融",
+      "title": "贷中行为风险",
+      "figures": 2,
+      "status": "通过"
+    },
+    {
+      "id": "20",
+      "book": "金融",
+      "title": "银行交易网络",
+      "figures": 2,
+      "status": "通过"
+    }
+  ]
+}

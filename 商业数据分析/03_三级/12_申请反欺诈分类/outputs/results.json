@@ -1,0 +1,18 @@
+{
+  "rows": 27321,
+  "train_rows": 16392,
+  "best_params": {
+    "decisiontreeclassifier__max_depth": 2,
+    "decisiontreeclassifier__min_samples_leaf": 5
+  },
+  "cv_auc": 0.6608173706005307,
+  "test_rows": 10929,
+  "positive_rows": 28,
+  "auc": 0.6738143289606457,
+  "average_precision": 0.2167654522763603,
+  "threshold": 0.5,
+  "precision": 1.0,
+  "recall": 0.21428571428571427,
+  "ks": 0.21428571428571427,
+  "note": "精选决策树核心实验，未运行原笔记本全部集成模型；评估限于教材样本。"
+}

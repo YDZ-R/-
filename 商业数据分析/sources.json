@@ -1,0 +1,441 @@
+[
+  {
+    "id": "01",
+    "book": "一级",
+    "book_number": 1,
+    "title": "RFM客户价值",
+    "folder": "01_一级/01_RFM客户价值",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/1《CDA 一级认证教材：商业数据分析》/第2章 数据分析方法/1、分析的基础范式/data-无答案/1-2RFM模型.xlsx",
+        "sha256": "75d961cc610168357fccf3ac5015d5c0a34e840ee7d050eef63712e29f14c411",
+        "bytes": 3018027,
+        "file": "1-2RFM模型.xlsx"
+      }
+    ],
+    "notebook": null
+  },
+  {
+    "id": "02",
+    "book": "一级",
+    "book_number": 1,
+    "title": "收入趋势与结构",
+    "folder": "01_一级/02_收入趋势与结构",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/1《CDA 一级认证教材：商业数据分析》/第3章 商业数据分析框架/案例1：收入趋势分析/案例1：收入趋势分析原始数据.xlsx",
+        "sha256": "22590edc89f5807600c602911d58ec1c9c1696da643bd896accf827200c40953",
+        "bytes": 35297,
+        "file": "案例1：收入趋势分析原始数据.xlsx"
+      }
+    ],
+    "notebook": null
+  },
+  {
+    "id": "03",
+    "book": "一级",
+    "book_number": 1,
+    "title": "银行经营看板迁移",
+    "folder": "01_一级/03_银行经营看板迁移",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/1《CDA 一级认证教材：商业数据分析》/第5章 业务数据分析/第5章  PowerBI业务看板案例-银行案例/银行案例数据 - 学员用.xlsx",
+        "sha256": "2935bb695c72d29127e2c87c871eb9960e958e7fd4360dca3e2e9d53c32cf009",
+        "bytes": 41457,
+        "file": "银行案例数据 - 学员用.xlsx"
+      },
+      {
+        "archive_path": "CDA 教材资料2025/1《CDA 一级认证教材：商业数据分析》/第5章 业务数据分析/第5章 WPS归因分析案例-银行案例/归因分析数据.xlsx",
+        "sha256": "a564d12431e289387411fed5b7b37de71aafdc07e6d226d49eee59b620cd8554",
+        "bytes": 52083,
+        "file": "归因分析数据.xlsx"
+      }
+    ],
+    "notebook": null
+  },
+  {
+    "id": "04",
+    "book": "一级",
+    "book_number": 1,
+    "title": "SQL客户画像",
+    "folder": "01_一级/04_SQL客户画像",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/1《CDA 一级认证教材：商业数据分析》/第9章 用户标签体系与用户画像专题/data/accounts.csv",
+        "sha256": "0b2efe71f7f6e15458da37430cbba1cc318d9ec3d36043320a544a60796066b4",
+        "bytes": 111386,
+        "file": "accounts.csv"
+      },
+      {
+        "archive_path": "CDA 教材资料2025/1《CDA 一级认证教材：商业数据分析》/第9章 用户标签体系与用户画像专题/data/clients.csv",
+        "sha256": "777267f9fd68ee99f6a5fbdf80192c8039630074414c9388b590443295ac56c9",
+        "bytes": 121661,
+        "file": "clients.csv"
+      },
+      {
+        "archive_path": "CDA 教材资料2025/1《CDA 一级认证教材：商业数据分析》/第9章 用户标签体系与用户画像专题/data/disp.csv",
+        "sha256": "912ed298ceec0686e9bfc76cc1a8c7cbd101d74f63810bb62033680397e94386",
+        "bytes": 119125,
+        "file": "disp.csv"
+      },
+      {
+        "archive_path": "CDA 教材资料2025/1《CDA 一级认证教材：商业数据分析》/第9章 用户标签体系与用户画像专题/data/loans.csv",
+        "sha256": "abe38ccd1dabf56b4b273cfbc107f9462571c3625f57e9f8958c91d62896ed33",
+        "bytes": 26341,
+        "file": "loans.csv"
+      },
+      {
+        "archive_path": "CDA 教材资料2025/1《CDA 一级认证教材：商业数据分析》/第9章 用户标签体系与用户画像专题/data/district.csv",
+        "sha256": "b2354e59829f9c8e61e68a77df53f92648416d948d755b9a1002b1a150c83ccf",
+        "bytes": 3815,
+        "file": "district.csv"
+      }
+    ],
+    "notebook": null
+  },
+  {
+    "id": "05",
+    "book": "一级",
+    "book_number": 1,
+    "title": "效应分解预报",
+    "folder": "01_一级/05_效应分解预报",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/1《CDA 一级认证教材：商业数据分析》/第10章 使用效应分解方法做预报/AirPassengers.csv",
+        "sha256": "6a032411a7b014a96b6bb42244a3b16cfe0dd575995e3e326ebb01ed86983ce5",
+        "bytes": 3784,
+        "file": "AirPassengers.csv"
+      }
+    ],
+    "notebook": null
+  },
+  {
+    "id": "06",
+    "book": "二级",
+    "book_number": 2,
+    "title": "数据整合清洗",
+    "folder": "02_二级/06_数据整合清洗",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/2《CDA 二级认证教材：量化策略分析》/第4章- 数据处理(pandas)/data/big.csv",
+        "sha256": "103e6d67ac472c0210fc33de363f939377b43dc71415ffe9bdd61edcc2427041",
+        "bytes": 85712,
+        "file": "big.csv"
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/2《CDA 二级认证教材：量化策略分析》/第4章- 数据处理(pandas)/第4章  数据整合和数据清洗.ipynb",
+      "sha256": "91f4f5f9a6f1abfcd22b712b83ffd84fe8ec7c5e09b8dd21dedb74d213f4bf1c",
+      "code_cells": 94
+    }
+  },
+  {
+    "id": "07",
+    "book": "二级",
+    "book_number": 2,
+    "title": "分层抽样",
+    "folder": "02_二级/07_分层抽样",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/2《CDA 二级认证教材：量化策略分析》/第6章-市场调研与数据预处理/1数据采集与处理 1 数据采集方法/clients.csv",
+        "sha256": "b09ccf89e10f89fc2657102fb91f9ac0ab762ef7a17cc8794d5939b9417a201a",
+        "bytes": 121655,
+        "file": "clients.csv"
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/2《CDA 二级认证教材：量化策略分析》/第6章-市场调研与数据预处理/1数据采集与处理 1 数据采集方法/抽样.ipynb",
+      "sha256": "61a66f6780a1a739955fc0d1ee0cce0162adf9cb900bc2ef62c7029ef5f8b8cf",
+      "code_cells": 6
+    }
+  },
+  {
+    "id": "08",
+    "book": "二级",
+    "book_number": 2,
+    "title": "主成分分析",
+    "folder": "02_二级/08_主成分分析",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/2《CDA 二级认证教材：量化策略分析》/第7章-特征降维方法/profile_telecom.csv",
+        "sha256": "d3383562f470d978190141d2714a946e87689e1fa608f921ca82cc040423f2b0",
+        "bytes": 12891,
+        "file": "profile_telecom.csv"
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/2《CDA 二级认证教材：量化策略分析》/第7章-特征降维方法/在 Python 中实现主成分分析.ipynb",
+      "sha256": "2a74392d7a52ea27ce36371e6ac3ca691ca26d56bca7bb542cc4c9c8ab85fb5d",
+      "code_cells": 8
+    }
+  },
+  {
+    "id": "09",
+    "book": "二级",
+    "book_number": 2,
+    "title": "线性回归",
+    "folder": "02_二级/09_线性回归",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/2《CDA 二级认证教材：量化策略分析》/第8章-使用统计学方法进行检验和预测/线性回归/LR_practice.xlsx",
+        "sha256": "0e561e285411db63ac7d8ade860ecd83a6dd8e004197cfd3291a655518529c41",
+        "bytes": 19228,
+        "file": "LR_practice.xlsx"
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/2《CDA 二级认证教材：量化策略分析》/第8章-使用统计学方法进行检验和预测/线性回归/线性回归.ipynb",
+      "sha256": "214b23d8812006481de6db255bb92e6cb6ea6fd633ac59400a67969db7a13efa",
+      "code_cells": 61
+    }
+  },
+  {
+    "id": "10",
+    "book": "二级",
+    "book_number": 2,
+    "title": "KMeans用户细分",
+    "folder": "02_二级/10_KMeans用户细分",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/2《CDA 二级认证教材：量化策略分析》/第9章-用户分群/k-means聚类/profile_bank.csv",
+        "sha256": "fcabcbb65e4a1c0577880f5b8db3df21307a0ca9a446f04f83f8b0032d9c0bd9",
+        "bytes": 2470153,
+        "file": "profile_bank.csv"
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/2《CDA 二级认证教材：量化策略分析》/第9章-用户分群/k-means聚类/Kmeans 的应用 - 用户细分.ipynb",
+      "sha256": "ed0175e1a5824c9c7e1cfd759015f470a95af9776855a2c32e92dcba3940bb9e",
+      "code_cells": 25
+    }
+  },
+  {
+    "id": "11",
+    "book": "三级",
+    "book_number": 3,
+    "title": "银行交叉销售关联规则",
+    "folder": "03_三级/11_银行交叉销售关联规则",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/3《CDA 三级认证教材：敏捷数据挖掘》/2.4交叉销售（关联规则与序列模式）/bank_prod_order.csv",
+        "sha256": "e7505217d13d09d31ac3e3641499185d0d584e38d25ef5011359dcea9a39afbc",
+        "bytes": 40490,
+        "file": "bank_prod_order.csv"
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/3《CDA 三级认证教材：敏捷数据挖掘》/2.4交叉销售（关联规则与序列模式）/2.4.1.关联规则（银行产品交叉销售分析）.ipynb",
+      "sha256": "a110af478742060e99c117ceb9f54c11921911aaae95940052efd42a0c096956",
+      "code_cells": 8
+    }
+  },
+  {
+    "id": "12",
+    "book": "三级",
+    "book_number": 3,
+    "title": "申请反欺诈分类",
+    "folder": "03_三级/12_申请反欺诈分类",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/3《CDA 三级认证教材：敏捷数据挖掘》/3.1申请反欺诈（决策树系列等）/loan_net.csv",
+        "sha256": "a92a9769ba3266b2965c1df9aa1fec1defae3e67cd0d05c332f65b9f53dba9dc",
+        "bytes": 302589,
+        "file": "loan_net.csv"
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/3《CDA 三级认证教材：敏捷数据挖掘》/3.1申请反欺诈（决策树系列等）/3.1.1-3.1.2分类（反欺诈_DT_EnsembleMethods）.ipynb",
+      "sha256": "7388efef6e65dd9c5e17d16407ac90737de99bf616d40786eca50b92c28c7841",
+      "code_cells": 25
+    }
+  },
+  {
+    "id": "13",
+    "book": "三级",
+    "book_number": 3,
+    "title": "异常交易识别",
+    "folder": "03_三级/13_异常交易识别",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/3《CDA 三级认证教材：敏捷数据挖掘》/3.2违规识别（孤立森林、局部异常因子）/creditcard.csv",
+        "sha256": "76274b691b16a6c49d3f159c883398e03ccd6d1ee12d9d8ee38f4b4b98551a89",
+        "bytes": 150828752,
+        "file": "creditcard.csv",
+        "distributed_file": "creditcard_sample.csv",
+        "distributed_sha256": "6827b565e68c981bab0693808cf4e18ad7c7bfa42b012a7e4b63e32c3e91fca6",
+        "sampling": {
+          "method": "按Class分层随机抽样",
+          "seed": 241,
+          "original_rows": 284807,
+          "original_class_counts": {
+            "0": 284315,
+            "1": 492
+          },
+          "sample_rows": 60000,
+          "sample_class_counts": {
+            "0": 59896,
+            "1": 104
+          },
+          "source_row": "原CSV从0起的记录行号"
+        }
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/3《CDA 三级认证教材：敏捷数据挖掘》/3.2违规识别（孤立森林、局部异常因子）/3.2违规识别(IsolationForrest_LOF无监督).ipynb",
+      "sha256": "425ef1f98419bb081d3415f26a785f65d9bb540d5aa2a0e9e0a995ad52bd0961",
+      "code_cells": 12
+    }
+  },
+  {
+    "id": "14",
+    "book": "三级",
+    "book_number": 3,
+    "title": "SARIMA销量预测",
+    "folder": "03_三级/14_SARIMA销量预测",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/3《CDA 三级认证教材：敏捷数据挖掘》/4.1时间序列预测/tractor_sales.csv",
+        "sha256": "b2b8fae112e389a15dcdd411c287778fc52ac6432cb000b86f1defbf8975778c",
+        "bytes": 2043,
+        "file": "tractor_sales.csv"
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/3《CDA 三级认证教材：敏捷数据挖掘》/4.1时间序列预测/4.1.2销售数据预测(SARIMA).ipynb",
+      "sha256": "560d2e92efb60859617470940d29aadad4bd349e551bd14c2a6c9af63ecb63ce",
+      "code_cells": 12
+    }
+  },
+  {
+    "id": "15",
+    "book": "三级",
+    "book_number": 3,
+    "title": "线性规划资源分配",
+    "folder": "03_三级/15_线性规划资源分配",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/3《CDA 三级认证教材：敏捷数据挖掘》/4.2运筹优化/productivity.lp",
+        "sha256": "1365f2381718a296e5d513edb575cc551b5954991daa7ca9a174949dccaed082",
+        "bytes": 128,
+        "file": "productivity.lp"
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/3《CDA 三级认证教材：敏捷数据挖掘》/4.2运筹优化/4.2.1线性规划.ipynb",
+      "sha256": "27ba5f75438f2f540f7f06cb8debde1400d2fb94a492fa6f2c8631f6f6877a19",
+      "code_cells": 6
+    }
+  },
+  {
+    "id": "16",
+    "book": "金融",
+    "book_number": 4,
+    "title": "贷款精准营销",
+    "folder": "04_金融/16_贷款精准营销",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/4《金融数据分析和数据挖掘案例实战》/第2章-某银行贷款产品精准营销模型/tran0917.csv",
+        "sha256": "30aa69a503d64c606a6ef20d9adba121df8e65fe69b00da918cd48fa27ea7ea7",
+        "bytes": 622002,
+        "file": "tran0917.csv"
+      },
+      {
+        "archive_path": "CDA 教材资料2025/4《金融数据分析和数据挖掘案例实战》/第2章-某银行贷款产品精准营销模型/pred0917.csv",
+        "sha256": "beb058feefd84a006a8e9d03d03ba2d883d97cb71040f95692c207dde41efed1",
+        "bytes": 601067,
+        "file": "pred0917.csv"
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/4《金融数据分析和数据挖掘案例实战》/第2章-某银行贷款产品精准营销模型/第二章某银行贷款产品精准营销模型代码通过.ipynb",
+      "sha256": "1662829592aaf3ca23fa38d72380efe8c399eff6d3d477250ccd517f6c73e2b4",
+      "code_cells": 12
+    }
+  },
+  {
+    "id": "17",
+    "book": "金融",
+    "book_number": 4,
+    "title": "多维客户细分",
+    "folder": "04_金融/17_多维客户细分",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/4《金融数据分析和数据挖掘案例实战》/第3章-多维特征的客户细分/data_clust.csv",
+        "sha256": "975c83f4e951da59ffc1d317001d8742f180df3fe99df2fd8e67e951562ad463",
+        "bytes": 9689464,
+        "file": "data_clust.csv"
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/4《金融数据分析和数据挖掘案例实战》/第3章-多维特征的客户细分/第3章多维特征的客户细分代码通过.ipynb",
+      "sha256": "1f50d82dad2b399435171edfe9d070ed84cb4adf987ff4d192fd7e98e3d7808d",
+      "code_cells": 26
+    }
+  },
+  {
+    "id": "18",
+    "book": "金融",
+    "book_number": 4,
+    "title": "贷前信用风险",
+    "folder": "04_金融/18_贷前信用风险",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/4《金融数据分析和数据挖掘案例实战》/第5章-贷前信用风险预测模型（A卡）/creditdata_small.csv",
+        "sha256": "b64e0ba6b3bd0833cd4ed60f05fb6e2d91840083708733464e0507fcad239cca",
+        "bytes": 15812065,
+        "file": "creditdata_small.csv"
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/4《金融数据分析和数据挖掘案例实战》/第5章-贷前信用风险预测模型（A卡）/第5章贷前信用风险预测模型（A卡）代码通过.ipynb",
+      "sha256": "4284c801f9233a809ab3e5ff6b1e9e849213a7edfc088256311ec5403a4084fd",
+      "code_cells": 27
+    }
+  },
+  {
+    "id": "19",
+    "book": "金融",
+    "book_number": 4,
+    "title": "贷中行为风险",
+    "folder": "04_金融/19_贷中行为风险",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/4《金融数据分析和数据挖掘案例实战》/第6章-贷中信用风险预测模型（B卡）/Data/CreditBalance.csv",
+        "sha256": "c20380bb5c24f6d0200115897aecaf55f991dde86bca7926b0b0bc9513fc446c",
+        "bytes": 29636228,
+        "file": "CreditBalance.csv"
+      },
+      {
+        "archive_path": "CDA 教材资料2025/4《金融数据分析和数据挖掘案例实战》/第6章-贷中信用风险预测模型（B卡）/Data/label.csv",
+        "sha256": "a22c805737a30a441f200fcfd77637caa8ab5d0db8545a3eeee8cee2a47a75e6",
+        "bytes": 960538,
+        "file": "label.csv"
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/4《金融数据分析和数据挖掘案例实战》/第6章-贷中信用风险预测模型（B卡）/第6章贷中信用风险预测模型（B卡）代码通过.ipynb",
+      "sha256": "698445ae02ed9764f201cf27b526d8ea98396c5702661fc577548923ec8a2eb4",
+      "code_cells": 15
+    }
+  },
+  {
+    "id": "20",
+    "book": "金融",
+    "book_number": 4,
+    "title": "银行交易网络",
+    "folder": "04_金融/20_银行交易网络",
+    "sources": [
+      {
+        "archive_path": "CDA 教材资料2025/4《金融数据分析和数据挖掘案例实战》/补充-社交网络/data/Archive-社交网络-交易对手明细汇总.csv",
+        "sha256": "19b25a8a6dcc20c5cd773c817ee92887b874926e76c5281e495ad94673003708",
+        "bytes": 864268,
+        "file": "Archive-社交网络-交易对手明细汇总.csv"
+      }
+    ],
+    "notebook": {
+      "archive_path": "CDA 教材资料2025/4《金融数据分析和数据挖掘案例实战》/补充-社交网络/05-社交网络—银行交易圈实践-社区发现 .ipynb",
+      "sha256": "76c04cdf055945bbaf54a1c83f3de555ee302c5b5d0e175637cac0e149af893d",
+      "code_cells": 13
+    }
+  }
+]

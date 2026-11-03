@@ -1,0 +1,11 @@
+{
+  "raw_rows": 6903,
+  "nodes": 7059,
+  "edges": 6903,
+  "communities": 343,
+  "connected_components": 343,
+  "largest_component_nodes": 99,
+  "modularity": 0.9955544861223306,
+  "displayed_nodes": 99,
+  "note": "全图计算社区与PageRank，网络图仅展示最大连通分量中度数前120的诱导子图；不把社区直接标记为欺诈团伙。"
+}

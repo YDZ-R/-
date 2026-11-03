@@ -1,0 +1,7 @@
+# 教材来源哈希以原始字节计算，CSV和LP不得由Git自动转换换行。
+*.csv -text
+*.lp -text
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.txt text eol=lf

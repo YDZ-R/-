@@ -1,0 +1,9 @@
+{
+  "transactions": 720,
+  "products": 21,
+  "minimum_support": 0.02,
+  "frequent_itemsets": 112,
+  "rules": 302,
+  "highest_lift": 11.636363636363635,
+  "note": "同一客户重复购买同一产品只记一次；关联规则不代表购买因果关系。"
+}
