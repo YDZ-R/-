@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-19",
+  "scope": "四个主题页面的浏览器呈现与代表性交互",
+  "viewports": ["desktop default 1280x720 (content approximately1265px)", "mobile390x844"],
+  "theme_count": 4,
+  "rendered_charts_per_theme": 16,
+  "horizontal_document_overflow": false,
+  "runtime_errors_observed": [],
+  "tested": [
+    "四套页面默认期64图加载与完整截图",
+    "季度GDP当季37.54万亿元与累计107.11万亿元切换",
+    "区间起止筛选与观察期限制",
+    "播放自动推进并在区间终点停止",
+    "教育仅选学前时合计更新，招生毕业图显示无同口径数据",
+    "重置、图表放大、口径窗口及关闭",
+    "当前期CSV导出按钮触发并显示成功提示",
+    "手机SVG图形及堆叠末端实际显示",
+    "修复后四主题桌面与手机全部截图复核"
+  ],
+  "finish_review": {
+    "disposition": "ship",
+    "scope": "六项已列明问题的修复复审，非所有可能状态的穷举测试",
+    "resolved": ["手机堆叠图末端", "矩形树标签对比度", "次要文字按钮和热图标签对比度", "教育平行坐标图例与学段配色", "结构图持久单位", "明细表和CSV的指标身份"]
+  },
+  "limits": [
+    "浏览器工具不允许file协议；交互验收在本地HTTP服务完成。交付HTML内嵌数据、仅引用本地资源，无fetch或CDN依赖。",
+    "CSV下载调用及界面提示已验证，工具的下载路径回传中断，未声称读取浏览器生成的下载文件。",
+    "未穷举所有年份、区间和筛选组合；数据映射、空值、单位与分类合计另由Python脚本核验。",
+    "设计检测器缺少解析模块，采用regex降级模式，其空结果不代表完整的可访问性认证。"
+  ],
+  "preview_directory": "outputs/previews"
+}

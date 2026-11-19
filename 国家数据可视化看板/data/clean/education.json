@@ -1,0 +1,1695 @@
+{
+  "id": "education",
+  "title": "全国教育发展",
+  "subtitle": "六类学段的规模、资源与投入",
+  "accent": "#5572ba",
+  "periods": [
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+  ],
+  "default_period": "2025",
+  "series": {
+    "students_preschool": {
+      "id": "students_preschool",
+      "label": "学前教育",
+      "unit": "万人",
+      "values": {
+        "2011": 3424.5,
+        "2012": 3685.8,
+        "2013": 3894.7,
+        "2014": 4050.7,
+        "2015": 4264.8,
+        "2016": 4413.9,
+        "2017": 4600.1,
+        "2018": 4656.4,
+        "2019": 4713.9,
+        "2020": 4818.3,
+        "2021": 4805.2,
+        "2022": 4627.5,
+        "2023": 4093.0,
+        "2024": 3584.0,
+        "2025": 3225.5
+      },
+      "source_table": "education_students",
+      "source_indicator": "学前教育在校学生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "students_primary": {
+      "id": "students_primary",
+      "label": "小学",
+      "unit": "万人",
+      "values": {
+        "2011": 9926.4,
+        "2012": 9695.9,
+        "2013": 9360.5,
+        "2014": 9451.1,
+        "2015": 9692.2,
+        "2016": 9913.0,
+        "2017": 10093.7,
+        "2018": 10339.3,
+        "2019": 10561.2,
+        "2020": 10725.4,
+        "2021": 10779.9,
+        "2022": 10732.1,
+        "2023": 10836.0,
+        "2024": 10584.4,
+        "2025": 10178.3
+      },
+      "source_table": "education_students",
+      "source_indicator": "小学阶段在校学生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "students_middle": {
+      "id": "students_middle",
+      "label": "初中",
+      "unit": "万人",
+      "values": {
+        "2011": 5066.8,
+        "2012": 4763.1,
+        "2013": 4440.1,
+        "2014": 4384.6,
+        "2015": 4312.0,
+        "2016": 4329.4,
+        "2017": 4442.1,
+        "2018": 4652.6,
+        "2019": 4827.1,
+        "2020": 4914.1,
+        "2021": 5018.4,
+        "2022": 5120.6,
+        "2023": 5243.7,
+        "2024": 5386.2,
+        "2025": 5509.3
+      },
+      "source_table": "education_students",
+      "source_indicator": "初中阶段在校学生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "students_high": {
+      "id": "students_high",
+      "label": "普通高中",
+      "unit": "万人",
+      "values": {
+        "2011": 2454.8,
+        "2012": 2467.2,
+        "2013": 2435.9,
+        "2014": 2400.5,
+        "2015": 2374.4,
+        "2016": 2366.6,
+        "2017": 2374.5,
+        "2018": 2375.4,
+        "2019": 2414.3,
+        "2020": 2494.5,
+        "2021": 2605.0,
+        "2022": 2713.9,
+        "2023": 2803.6,
+        "2024": 2922.3,
+        "2025": 3039.5
+      },
+      "source_table": "education_students",
+      "source_indicator": "普通高中在校学生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "students_higher": {
+      "id": "students_higher",
+      "label": "普通、职业本专科",
+      "unit": "万人",
+      "values": {
+        "2011": 2308.5,
+        "2012": 2391.3,
+        "2013": 2468.1,
+        "2014": 2547.7,
+        "2015": 2625.3,
+        "2016": 2695.8,
+        "2017": 2753.6,
+        "2018": 2831.0,
+        "2019": 3031.5,
+        "2020": 3285.3,
+        "2021": 3496.1,
+        "2022": 3659.4,
+        "2023": 3775.0,
+        "2024": 3891.3,
+        "2025": 3954.0
+      },
+      "source_table": "education_students",
+      "source_indicator": "普通、职业本专科在校学生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "students_special": {
+      "id": "students_special",
+      "label": "特殊教育",
+      "unit": "万人",
+      "values": {
+        "2011": 39.9,
+        "2012": 37.9,
+        "2013": 36.8,
+        "2014": 39.5,
+        "2015": 44.2,
+        "2016": 49.2,
+        "2017": 57.9,
+        "2018": 66.6,
+        "2019": 79.5,
+        "2020": 88.1,
+        "2021": 92.0,
+        "2022": 91.9,
+        "2023": 91.2,
+        "2024": 91.6,
+        "2025": 92.7
+      },
+      "source_table": "education_students",
+      "source_indicator": "特殊教育在校学生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "teachers_preschool": {
+      "id": "teachers_preschool",
+      "label": "学前教育",
+      "unit": "万人",
+      "values": {
+        "2011": 131.6,
+        "2012": 147.9,
+        "2013": 166.3,
+        "2014": 184.4,
+        "2015": 205.1,
+        "2016": 223.2,
+        "2017": 243.2,
+        "2018": 258.1,
+        "2019": 276.3,
+        "2020": 291.3,
+        "2021": 319.1,
+        "2022": 324.4,
+        "2023": 307.4,
+        "2024": 283.2,
+        "2025": 261.3
+      },
+      "source_table": "education_teachers",
+      "source_indicator": "学前教育专任教师数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "teachers_primary": {
+      "id": "teachers_primary",
+      "label": "小学",
+      "unit": "万人",
+      "values": {
+        "2011": 560.5,
+        "2012": 558.5,
+        "2013": 558.5,
+        "2014": 563.4,
+        "2015": 568.5,
+        "2016": 578.9,
+        "2017": 594.5,
+        "2018": 609.2,
+        "2019": 626.9,
+        "2020": 643.4,
+        "2021": 660.1,
+        "2022": 662.9,
+        "2023": 665.6,
+        "2024": 659.0,
+        "2025": 645.8
+      },
+      "source_table": "education_teachers",
+      "source_indicator": "小学阶段专任教师数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "teachers_middle": {
+      "id": "teachers_middle",
+      "label": "初中",
+      "unit": "万人",
+      "values": {
+        "2011": 352.5,
+        "2012": 350.4,
+        "2013": 348.1,
+        "2014": 348.8,
+        "2015": 347.6,
+        "2016": 348.8,
+        "2017": 354.9,
+        "2018": 363.9,
+        "2019": 374.7,
+        "2020": 386.1,
+        "2021": 397.1,
+        "2022": 402.5,
+        "2023": 408.3,
+        "2024": 414.9,
+        "2025": 423.9
+      },
+      "source_table": "education_teachers",
+      "source_indicator": "初中阶段专任教师数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "teachers_high": {
+      "id": "teachers_high",
+      "label": "普通高中",
+      "unit": "万人",
+      "values": {
+        "2011": 155.7,
+        "2012": 159.5,
+        "2013": 162.9,
+        "2014": 166.3,
+        "2015": 169.5,
+        "2016": 173.3,
+        "2017": 177.4,
+        "2018": 181.3,
+        "2019": 185.9,
+        "2020": 193.3,
+        "2021": 202.8,
+        "2022": 213.3,
+        "2023": 221.5,
+        "2024": 230.2,
+        "2025": 237.2
+      },
+      "source_table": "education_teachers",
+      "source_indicator": "普通高中专任教师数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "teachers_higher": {
+      "id": "teachers_higher",
+      "label": "普通、职业本专科",
+      "unit": "万人",
+      "values": {
+        "2011": 139.3,
+        "2012": 144.0,
+        "2013": 149.7,
+        "2014": 153.5,
+        "2015": 157.3,
+        "2016": 160.2,
+        "2017": 163.3,
+        "2018": 167.3,
+        "2019": 174.0,
+        "2020": 183.3,
+        "2021": 186.6,
+        "2022": 196.3,
+        "2023": 206.1,
+        "2024": 215.0,
+        "2025": 221.0
+      },
+      "source_table": "education_teachers",
+      "source_indicator": "普通、职业高等学校专任教师数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "teachers_special": {
+      "id": "teachers_special",
+      "label": "特殊教育",
+      "unit": "万人",
+      "values": {
+        "2011": 4.1,
+        "2012": 4.4,
+        "2013": 4.6,
+        "2014": 4.8,
+        "2015": 5.0,
+        "2016": 5.3,
+        "2017": 5.6,
+        "2018": 5.9,
+        "2019": 6.2,
+        "2020": 6.6,
+        "2021": 6.9,
+        "2022": 7.3,
+        "2023": 7.7,
+        "2024": 8.1,
+        "2025": 8.5
+      },
+      "source_table": "education_teachers",
+      "source_indicator": "特殊教育专任教师数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "schools_preschool": {
+      "id": "schools_preschool",
+      "label": "学前教育",
+      "unit": "所",
+      "values": {
+        "2011": 166750.0,
+        "2012": 181251.0,
+        "2013": 198553.0,
+        "2014": 209881.0,
+        "2015": 223683.0,
+        "2016": 239812.0,
+        "2017": 254950.0,
+        "2018": 266677.0,
+        "2019": 281174.0,
+        "2020": 291715.0,
+        "2021": 294832.0,
+        "2022": 289222.0,
+        "2023": 274414.0,
+        "2024": 253263.0,
+        "2025": 231905.0
+      },
+      "source_table": "education_schools",
+      "source_indicator": "幼儿园数 (所)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "schools_primary": {
+      "id": "schools_primary",
+      "label": "小学",
+      "unit": "所",
+      "values": {
+        "2011": 241249.0,
+        "2012": 228585.0,
+        "2013": 213529.0,
+        "2014": 201377.0,
+        "2015": 190525.0,
+        "2016": 177633.0,
+        "2017": 167009.0,
+        "2018": 161811.0,
+        "2019": 160148.0,
+        "2020": 157979.0,
+        "2021": 154279.0,
+        "2022": 149117.0,
+        "2023": 143472.0,
+        "2024": 136332.0,
+        "2025": 128342.0
+      },
+      "source_table": "education_schools",
+      "source_indicator": "普通小学学校数 (所)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "schools_middle": {
+      "id": "schools_middle",
+      "label": "初中",
+      "unit": "所",
+      "values": {
+        "2011": 54117.0,
+        "2012": 53216.0,
+        "2013": 52804.0,
+        "2014": 52623.0,
+        "2015": 52405.0,
+        "2016": 52118.0,
+        "2017": 51894.0,
+        "2018": 51982.0,
+        "2019": 52415.0,
+        "2020": 52805.0,
+        "2021": 52871.0,
+        "2022": 52480.0,
+        "2023": 52348.0,
+        "2024": 52054.0,
+        "2025": 51618.0
+      },
+      "source_table": "education_schools",
+      "source_indicator": "初中学校数 (所)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "schools_high": {
+      "id": "schools_high",
+      "label": "普通高中",
+      "unit": "所",
+      "values": {
+        "2011": 13688.0,
+        "2012": 13509.0,
+        "2013": 13352.0,
+        "2014": 13253.0,
+        "2015": 13240.0,
+        "2016": 13383.0,
+        "2017": 13555.0,
+        "2018": 13737.0,
+        "2019": 13964.0,
+        "2020": 14235.0,
+        "2021": 14585.0,
+        "2022": 15026.0,
+        "2023": 15381.0,
+        "2024": 15755.0,
+        "2025": 16088.0
+      },
+      "source_table": "education_schools",
+      "source_indicator": "普通高中学校数 (所)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "schools_higher": {
+      "id": "schools_higher",
+      "label": "普通、职业本专科",
+      "unit": "所",
+      "values": {
+        "2011": 2409.0,
+        "2012": 2442.0,
+        "2013": 2491.0,
+        "2014": 2529.0,
+        "2015": 2560.0,
+        "2016": 2596.0,
+        "2017": 2631.0,
+        "2018": 2663.0,
+        "2019": 2688.0,
+        "2020": 2738.0,
+        "2021": 2756.0,
+        "2022": 2760.0,
+        "2023": 2822.0,
+        "2024": 2870.0,
+        "2025": 2919.0
+      },
+      "source_table": "education_schools",
+      "source_indicator": "普通、职业高等学校数 (所)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "schools_special": {
+      "id": "schools_special",
+      "label": "特殊教育",
+      "unit": "所",
+      "values": {
+        "2011": 1767.0,
+        "2012": 1853.0,
+        "2013": 1933.0,
+        "2014": 2000.0,
+        "2015": 2053.0,
+        "2016": 2080.0,
+        "2017": 2107.0,
+        "2018": 2152.0,
+        "2019": 2192.0,
+        "2020": 2244.0,
+        "2021": 2288.0,
+        "2022": 2314.0,
+        "2023": 2345.0,
+        "2024": 2396.0,
+        "2025": 2464.0
+      },
+      "source_table": "education_schools",
+      "source_indicator": "特殊教育学校学校数 (所)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "admissions_primary": {
+      "id": "admissions_primary",
+      "label": "小学",
+      "unit": "万人",
+      "values": {
+        "2011": 1736.8,
+        "2012": 1714.7,
+        "2013": 1695.4,
+        "2014": 1658.4,
+        "2015": 1729.0,
+        "2016": 1752.5,
+        "2017": 1766.6,
+        "2018": 1867.3,
+        "2019": 1869.0,
+        "2020": 1808.1,
+        "2021": 1782.6,
+        "2022": 1701.4,
+        "2023": 1877.9,
+        "2024": 1616.6,
+        "2025": 1461.7
+      },
+      "source_table": "education_admissions",
+      "source_indicator": "小学阶段招生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "admissions_middle": {
+      "id": "admissions_middle",
+      "label": "初中",
+      "unit": "万人",
+      "values": {
+        "2011": 1634.7,
+        "2012": 1570.8,
+        "2013": 1496.1,
+        "2014": 1447.8,
+        "2015": 1411.0,
+        "2016": 1487.2,
+        "2017": 1547.2,
+        "2018": 1602.6,
+        "2019": 1638.8,
+        "2020": 1632.1,
+        "2021": 1705.4,
+        "2022": 1731.4,
+        "2023": 1754.6,
+        "2024": 1848.8,
+        "2025": 1852.8
+      },
+      "source_table": "education_admissions",
+      "source_indicator": "初中阶段招生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "admissions_high": {
+      "id": "admissions_high",
+      "label": "普通高中",
+      "unit": "万人",
+      "values": {
+        "2011": 850.8,
+        "2012": 844.6,
+        "2013": 822.7,
+        "2014": 796.6,
+        "2015": 796.6,
+        "2016": 802.9,
+        "2017": 800.1,
+        "2018": 792.7,
+        "2019": 839.5,
+        "2020": 876.4,
+        "2021": 905.0,
+        "2022": 947.5,
+        "2023": 967.8,
+        "2024": 1036.2,
+        "2025": 1074.9
+      },
+      "source_table": "education_admissions",
+      "source_indicator": "普通高中招生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "admissions_higher": {
+      "id": "admissions_higher",
+      "label": "普通、职业本专科",
+      "unit": "万人",
+      "values": {
+        "2011": 681.5,
+        "2012": 688.8,
+        "2013": 699.8,
+        "2014": 721.4,
+        "2015": 737.8,
+        "2016": 748.6,
+        "2017": 761.5,
+        "2018": 791.0,
+        "2019": 914.9,
+        "2020": 967.5,
+        "2021": 1001.3,
+        "2022": 1014.5,
+        "2023": 1042.2,
+        "2024": 1068.9,
+        "2025": 1070.8
+      },
+      "source_table": "education_admissions",
+      "source_indicator": "普通、职业本专科招生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "admissions_special": {
+      "id": "admissions_special",
+      "label": "特殊教育",
+      "unit": "万人",
+      "values": {
+        "2011": 6.4,
+        "2012": 6.6,
+        "2013": 6.6,
+        "2014": 7.1,
+        "2015": 8.3,
+        "2016": 9.2,
+        "2017": 11.1,
+        "2018": 12.4,
+        "2019": 14.4,
+        "2020": 14.9,
+        "2021": 14.9,
+        "2022": 14.6,
+        "2023": 15.5,
+        "2024": 15.8,
+        "2025": 16.4
+      },
+      "source_table": "education_admissions",
+      "source_indicator": "特殊教育招生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "graduates_primary": {
+      "id": "graduates_primary",
+      "label": "小学",
+      "unit": "万人",
+      "values": {
+        "2011": 1662.8,
+        "2012": 1641.6,
+        "2013": 1581.1,
+        "2014": 1476.6,
+        "2015": 1437.3,
+        "2016": 1507.4,
+        "2017": 1565.9,
+        "2018": 1616.5,
+        "2019": 1647.9,
+        "2020": 1640.3,
+        "2021": 1718.0,
+        "2022": 1740.6,
+        "2023": 1763.5,
+        "2024": 1857.3,
+        "2025": 1860.5
+      },
+      "source_table": "education_graduates",
+      "source_indicator": "小学阶段毕业生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "graduates_middle": {
+      "id": "graduates_middle",
+      "label": "初中",
+      "unit": "万人",
+      "values": {
+        "2011": 1736.7,
+        "2012": 1660.8,
+        "2013": 1561.5,
+        "2014": 1413.5,
+        "2015": 1417.6,
+        "2016": 1423.9,
+        "2017": 1397.5,
+        "2018": 1367.8,
+        "2019": 1454.1,
+        "2020": 1535.3,
+        "2021": 1587.1,
+        "2022": 1623.9,
+        "2023": 1623.6,
+        "2024": 1698.2,
+        "2025": 1723.7
+      },
+      "source_table": "education_graduates",
+      "source_indicator": "初中阶段毕业生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "graduates_high": {
+      "id": "graduates_high",
+      "label": "普通高中",
+      "unit": "万人",
+      "values": {
+        "2011": 787.7,
+        "2012": 791.5,
+        "2013": 799.0,
+        "2014": 799.6,
+        "2015": 797.7,
+        "2016": 792.4,
+        "2017": 775.7,
+        "2018": 779.2,
+        "2019": 789.2,
+        "2020": 786.5,
+        "2021": 780.2,
+        "2022": 824.1,
+        "2023": 860.4,
+        "2024": 891.0,
+        "2025": 924.6
+      },
+      "source_table": "education_graduates",
+      "source_indicator": "普通高中毕业生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "graduates_higher": {
+      "id": "graduates_higher",
+      "label": "普通、职业本专科",
+      "unit": "万人",
+      "values": {
+        "2011": 608.2,
+        "2012": 624.7,
+        "2013": 638.7,
+        "2014": 659.4,
+        "2015": 680.9,
+        "2016": 704.2,
+        "2017": 735.8,
+        "2018": 753.3,
+        "2019": 758.5,
+        "2020": 797.2,
+        "2021": 826.5,
+        "2022": 967.3,
+        "2023": 1047.0,
+        "2024": 1059.4,
+        "2025": 1105.1
+      },
+      "source_table": "education_graduates",
+      "source_indicator": "普通、职业本专科毕业生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "graduates_special": {
+      "id": "graduates_special",
+      "label": "特殊教育",
+      "unit": "万人",
+      "values": {
+        "2011": 4.4,
+        "2012": 4.9,
+        "2013": 5.1,
+        "2014": 4.9,
+        "2015": 5.3,
+        "2016": 5.9,
+        "2017": 6.9,
+        "2018": 8.1,
+        "2019": 9.8,
+        "2020": 12.1,
+        "2021": 14.6,
+        "2022": 15.9,
+        "2023": 17.3,
+        "2024": 17.7,
+        "2025": 18.4
+      },
+      "source_table": "education_graduates",
+      "source_indicator": "特殊教育毕业生数 (万人)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "ratio_preschool": {
+      "id": "ratio_preschool",
+      "label": "学前教育",
+      "unit": "人/教师",
+      "values": {
+        "2011": 26.022036,
+        "2012": 24.920892,
+        "2013": 23.419723,
+        "2014": 21.96692,
+        "2015": 20.793759,
+        "2016": 19.775538,
+        "2017": 18.914885,
+        "2018": 18.041069,
+        "2019": 17.060803,
+        "2020": 16.54068,
+        "2021": 15.058602,
+        "2022": 14.264797,
+        "2023": 13.314899,
+        "2024": 12.655367,
+        "2025": 12.344049
+      },
+      "derived_from": [
+        "students_preschool",
+        "teachers_preschool"
+      ]
+    },
+    "perschool_preschool": {
+      "id": "perschool_preschool",
+      "label": "学前教育",
+      "unit": "人/所",
+      "values": {
+        "2011": 205.367316,
+        "2012": 203.353361,
+        "2013": 196.154175,
+        "2014": 192.999843,
+        "2015": 190.662679,
+        "2016": 184.056678,
+        "2017": 180.431457,
+        "2018": 174.608234,
+        "2019": 167.650636,
+        "2020": 165.171486,
+        "2021": 162.980952,
+        "2022": 159.998202,
+        "2023": 149.154198,
+        "2024": 141.512973,
+        "2025": 139.087126
+      },
+      "derived_from": [
+        "students_preschool",
+        "schools_preschool"
+      ]
+    },
+    "ratio_primary": {
+      "id": "ratio_primary",
+      "label": "小学",
+      "unit": "人/教师",
+      "values": {
+        "2011": 17.709902,
+        "2012": 17.360609,
+        "2013": 16.760072,
+        "2014": 16.775115,
+        "2015": 17.048725,
+        "2016": 17.123856,
+        "2017": 16.978469,
+        "2018": 16.97193,
+        "2019": 16.846706,
+        "2020": 16.669879,
+        "2021": 16.330707,
+        "2022": 16.189621,
+        "2023": 16.280048,
+        "2024": 16.061305,
+        "2025": 15.760762
+      },
+      "derived_from": [
+        "students_primary",
+        "teachers_primary"
+      ]
+    },
+    "perschool_primary": {
+      "id": "perschool_primary",
+      "label": "小学",
+      "unit": "人/所",
+      "values": {
+        "2011": 411.4587,
+        "2012": 424.17044,
+        "2013": 438.371369,
+        "2014": 469.323706,
+        "2015": 508.710143,
+        "2016": 558.060721,
+        "2017": 604.380602,
+        "2018": 638.973865,
+        "2019": 659.464995,
+        "2020": 678.91302,
+        "2021": 698.72763,
+        "2022": 719.710026,
+        "2023": 755.269321,
+        "2024": 776.369451,
+        "2025": 793.060728
+      },
+      "derived_from": [
+        "students_primary",
+        "schools_primary"
+      ]
+    },
+    "ratio_middle": {
+      "id": "ratio_middle",
+      "label": "初中",
+      "unit": "人/教师",
+      "values": {
+        "2011": 14.373901,
+        "2012": 13.593322,
+        "2013": 12.755243,
+        "2014": 12.570528,
+        "2015": 12.405063,
+        "2016": 12.412271,
+        "2017": 12.516484,
+        "2018": 12.785381,
+        "2019": 12.882573,
+        "2020": 12.727532,
+        "2021": 12.637623,
+        "2022": 12.721988,
+        "2023": 12.842763,
+        "2024": 12.981923,
+        "2025": 12.996697
+      },
+      "derived_from": [
+        "students_middle",
+        "teachers_middle"
+      ]
+    },
+    "perschool_middle": {
+      "id": "perschool_middle",
+      "label": "初中",
+      "unit": "人/所",
+      "values": {
+        "2011": 936.267716,
+        "2012": 895.050361,
+        "2013": 840.864328,
+        "2014": 833.209813,
+        "2015": 822.82225,
+        "2016": 830.691891,
+        "2017": 855.994913,
+        "2018": 895.040591,
+        "2019": 920.938663,
+        "2020": 930.612631,
+        "2021": 949.178188,
+        "2022": 975.724085,
+        "2023": 1001.70016,
+        "2024": 1034.733162,
+        "2025": 1067.321477
+      },
+      "derived_from": [
+        "students_middle",
+        "schools_middle"
+      ]
+    },
+    "ratio_high": {
+      "id": "ratio_high",
+      "label": "普通高中",
+      "unit": "人/教师",
+      "values": {
+        "2011": 15.766217,
+        "2012": 15.468339,
+        "2013": 14.953346,
+        "2014": 14.434756,
+        "2015": 14.00826,
+        "2016": 13.656088,
+        "2017": 13.385006,
+        "2018": 13.102041,
+        "2019": 12.98709,
+        "2020": 12.904811,
+        "2021": 12.845168,
+        "2022": 12.723394,
+        "2023": 12.657336,
+        "2024": 12.694613,
+        "2025": 12.814081
+      },
+      "derived_from": [
+        "students_high",
+        "teachers_high"
+      ]
+    },
+    "perschool_high": {
+      "id": "perschool_high",
+      "label": "普通高中",
+      "unit": "人/所",
+      "values": {
+        "2011": 1793.395675,
+        "2012": 1826.337997,
+        "2013": 1824.370881,
+        "2014": 1811.28801,
+        "2015": 1793.353474,
+        "2016": 1768.362848,
+        "2017": 1751.752121,
+        "2018": 1729.198515,
+        "2019": 1728.945861,
+        "2020": 1752.370917,
+        "2021": 1786.081591,
+        "2022": 1806.136031,
+        "2023": 1822.768351,
+        "2024": 1854.839733,
+        "2025": 1889.29637
+      },
+      "derived_from": [
+        "students_high",
+        "schools_high"
+      ]
+    },
+    "ratio_higher": {
+      "id": "ratio_higher",
+      "label": "普通、职业本专科",
+      "unit": "人/教师",
+      "values": {
+        "2011": 16.572146,
+        "2012": 16.60625,
+        "2013": 16.486974,
+        "2014": 16.597394,
+        "2015": 16.689765,
+        "2016": 16.827715,
+        "2017": 16.862217,
+        "2018": 16.921698,
+        "2019": 17.422414,
+        "2020": 17.923077,
+        "2021": 18.735798,
+        "2022": 18.641875,
+        "2023": 18.316351,
+        "2024": 18.09907,
+        "2025": 17.891403
+      },
+      "derived_from": [
+        "students_higher",
+        "teachers_higher"
+      ]
+    },
+    "perschool_higher": {
+      "id": "perschool_higher",
+      "label": "普通、职业本专科",
+      "unit": "人/所",
+      "values": {
+        "2011": 9582.814446,
+        "2012": 9792.383292,
+        "2013": 9908.069049,
+        "2014": 10073.94227,
+        "2015": 10255.078125,
+        "2016": 10384.437596,
+        "2017": 10465.982516,
+        "2018": 10630.867443,
+        "2019": 11277.901786,
+        "2020": 11998.90431,
+        "2021": 12685.413643,
+        "2022": 13258.695652,
+        "2023": 13377.037562,
+        "2024": 13558.536585,
+        "2025": 13545.734841
+      },
+      "derived_from": [
+        "students_higher",
+        "schools_higher"
+      ]
+    },
+    "ratio_special": {
+      "id": "ratio_special",
+      "label": "特殊教育",
+      "unit": "人/教师",
+      "values": {
+        "2011": 9.731707,
+        "2012": 8.613636,
+        "2013": 8.0,
+        "2014": 8.229167,
+        "2015": 8.84,
+        "2016": 9.283019,
+        "2017": 10.339286,
+        "2018": 11.288136,
+        "2019": 12.822581,
+        "2020": 13.348485,
+        "2021": 13.333333,
+        "2022": 12.589041,
+        "2023": 11.844156,
+        "2024": 11.308642,
+        "2025": 10.905882
+      },
+      "derived_from": [
+        "students_special",
+        "teachers_special"
+      ]
+    },
+    "perschool_special": {
+      "id": "perschool_special",
+      "label": "特殊教育",
+      "unit": "人/所",
+      "values": {
+        "2011": 225.806452,
+        "2012": 204.533189,
+        "2013": 190.377651,
+        "2014": 197.5,
+        "2015": 215.294691,
+        "2016": 236.538462,
+        "2017": 274.798291,
+        "2018": 309.479554,
+        "2019": 362.682482,
+        "2020": 392.602496,
+        "2021": 402.097902,
+        "2022": 397.147796,
+        "2023": 388.91258,
+        "2024": 382.30384,
+        "2025": 376.217532
+      },
+      "derived_from": [
+        "students_special",
+        "schools_special"
+      ]
+    },
+    "fund_total": {
+      "id": "fund_total",
+      "label": "教育经费总投入",
+      "unit": "亿元",
+      "values": {
+        "2011": 23869.2936,
+        "2012": 28655.3052,
+        "2013": 30364.7182,
+        "2014": 32806.4609,
+        "2015": 36129.1927,
+        "2016": 38888.385,
+        "2017": 42562.0069,
+        "2018": 46142.998,
+        "2019": 50178.1166,
+        "2020": 53033.87,
+        "2021": 57873.6693,
+        "2022": 61329.1382,
+        "2023": 64595.0392,
+        "2024": 68899.243,
+        "2025": null
+      },
+      "source_table": "education_funding_total",
+      "source_indicator": "教育经费 (万元)",
+      "source_factor": 0.0001,
+      "source_subtract": 0
+    },
+    "fund_public": {
+      "id": "fund_public",
+      "label": "国家财政性",
+      "unit": "亿元",
+      "values": {
+        "2011": 18586.7009,
+        "2012": 23147.5698,
+        "2013": 24488.2177,
+        "2014": 26420.5821,
+        "2015": 29221.4511,
+        "2016": 31396.2519,
+        "2017": 34207.7546,
+        "2018": 36995.7704,
+        "2019": 40046.5452,
+        "2020": 42908.15,
+        "2021": 45835.3089,
+        "2022": 48472.9094,
+        "2023": 50439.465,
+        "2024": 54161.0457,
+        "2025": null
+      },
+      "source_table": "education_funding_public",
+      "source_indicator": "国家财政性教育经费 (万元)",
+      "source_factor": 0.0001,
+      "source_subtract": 0
+    },
+    "fund_private": {
+      "id": "fund_private",
+      "label": "民办学校办学",
+      "unit": "亿元",
+      "values": {
+        "2011": 111.932,
+        "2012": 128.1753,
+        "2013": 147.4089,
+        "2014": 131.3476,
+        "2015": 187.662,
+        "2016": 203.2733,
+        "2017": 225.0061,
+        "2018": 240.621,
+        "2019": 220.1304,
+        "2020": 229.2516,
+        "2021": 242.3822,
+        "2022": 188.2765,
+        "2023": 184.7917,
+        "2024": 156.609,
+        "2025": null
+      },
+      "source_table": "education_funding_private",
+      "source_indicator": "民办学校办学经费 (万元)",
+      "source_factor": 0.0001,
+      "source_subtract": 0
+    },
+    "fund_donation": {
+      "id": "fund_donation",
+      "label": "社会捐赠",
+      "unit": "亿元",
+      "values": {
+        "2011": 111.8675,
+        "2012": 95.6919,
+        "2013": 85.5445,
+        "2014": 79.67,
+        "2015": 86.996,
+        "2016": 81.0447,
+        "2017": 84.9974,
+        "2018": 94.7574,
+        "2019": 101.3752,
+        "2020": 117.2355,
+        "2021": 142.6654,
+        "2022": 154.3121,
+        "2023": 138.1737,
+        "2024": 158.0064,
+        "2025": null
+      },
+      "source_table": "education_funding_donation",
+      "source_indicator": "各类学校教育经费社会捐赠经费 (万元)",
+      "source_factor": 0.0001,
+      "source_subtract": 0
+    },
+    "fund_institution": {
+      "id": "fund_institution",
+      "label": "事业收入",
+      "unit": "亿元",
+      "values": {
+        "2011": 4424.6927,
+        "2012": 4619.8404,
+        "2013": 4926.2087,
+        "2014": 5427.1581,
+        "2015": 5809.7239,
+        "2016": 6276.8292,
+        "2017": 6957.5734,
+        "2018": 7738.2499,
+        "2019": 8723.5021,
+        "2020": 8704.1177,
+        "2021": 10457.516,
+        "2022": 10831.8215,
+        "2023": 11845.2889,
+        "2024": 12382.4833,
+        "2025": null
+      },
+      "source_table": "education_funding_institution",
+      "source_indicator": "各类学校教育经费事业收入 (万元)",
+      "source_factor": 0.0001,
+      "source_subtract": 0
+    },
+    "fund_other": {
+      "id": "fund_other",
+      "label": "其他经费",
+      "unit": "亿元",
+      "values": {
+        "2011": 634.1005,
+        "2012": 664.0278,
+        "2013": 717.3384,
+        "2014": 747.7031,
+        "2015": 823.3597,
+        "2016": 930.986,
+        "2017": 1086.6754,
+        "2018": 1073.5993,
+        "2019": 1086.5637,
+        "2020": 1075.1091,
+        "2021": 1195.7969,
+        "2022": 1681.8187,
+        "2023": 1987.32,
+        "2024": 2041.0985,
+        "2025": null
+      },
+      "source_table": "education_funding_other",
+      "source_indicator": "其他教育经费 (万元)",
+      "source_factor": 0.0001,
+      "source_subtract": 0
+    },
+    "annual_gdp": {
+      "id": "annual_gdp",
+      "label": "年度GDP",
+      "unit": "亿元",
+      "values": {
+        "2016": 761193.0,
+        "2017": 847382.9,
+        "2018": 936010.1,
+        "2019": 1005872.4,
+        "2020": 1034867.6,
+        "2021": 1173823.0,
+        "2022": 1234029.4,
+        "2023": 1294271.7,
+        "2024": 1348066.2,
+        "2025": 1401879.2
+      },
+      "source_table": "annual_gdp",
+      "source_indicator": "国内生产总值 (亿元)",
+      "source_factor": 1,
+      "source_subtract": 0
+    },
+    "fund_gdp": {
+      "id": "fund_gdp",
+      "label": "财政性教育经费/GDP",
+      "unit": "%",
+      "values": {
+        "2011": null,
+        "2012": null,
+        "2013": null,
+        "2014": null,
+        "2015": null,
+        "2016": 4.124611,
+        "2017": 4.036871,
+        "2018": 3.952497,
+        "2019": 3.981275,
+        "2020": 4.146245,
+        "2021": 3.904789,
+        "2022": 3.928019,
+        "2023": 3.897131,
+        "2024": 4.017684,
+        "2025": null
+      },
+      "derived_from": [
+        "fund_public",
+        "annual_gdp"
+      ]
+    },
+    "fund_public_share": {
+      "id": "fund_public_share",
+      "label": "财政性教育经费占比",
+      "unit": "%",
+      "values": {
+        "2011": 77.868668,
+        "2012": 80.779352,
+        "2013": 80.646945,
+        "2014": 80.534692,
+        "2015": 80.880443,
+        "2016": 80.734265,
+        "2017": 80.371573,
+        "2018": 80.176347,
+        "2019": 79.808785,
+        "2020": 80.907069,
+        "2021": 79.198899,
+        "2022": 79.037324,
+        "2023": 78.085664,
+        "2024": 78.609058,
+        "2025": null
+      },
+      "derived_from": [
+        "fund_public",
+        "fund_total"
+      ]
+    },
+    "students_total": {
+      "id": "students_total",
+      "label": "六类在校生合计",
+      "unit": "万人",
+      "values": {
+        "2011": 23220.9,
+        "2012": 23041.2,
+        "2013": 22636.1,
+        "2014": 22874.1,
+        "2015": 23312.9,
+        "2016": 23767.9,
+        "2017": 24321.9,
+        "2018": 24921.3,
+        "2019": 25627.5,
+        "2020": 26325.7,
+        "2021": 26796.6,
+        "2022": 26945.4,
+        "2023": 26842.5,
+        "2024": 26459.8,
+        "2025": 25999.3
+      },
+      "derived_from": [
+        "students_preschool",
+        "students_primary",
+        "students_middle",
+        "students_high",
+        "students_higher",
+        "students_special"
+      ]
+    },
+    "teachers_total": {
+      "id": "teachers_total",
+      "label": "六类专任教师合计",
+      "unit": "万人",
+      "values": {
+        "2011": 1343.7,
+        "2012": 1364.7,
+        "2013": 1390.1,
+        "2014": 1421.2,
+        "2015": 1453.0,
+        "2016": 1489.7,
+        "2017": 1538.9,
+        "2018": 1585.7,
+        "2019": 1644.0,
+        "2020": 1704.0,
+        "2021": 1772.6,
+        "2022": 1806.7,
+        "2023": 1816.6,
+        "2024": 1810.4,
+        "2025": 1797.7
+      },
+      "derived_from": [
+        "teachers_preschool",
+        "teachers_primary",
+        "teachers_middle",
+        "teachers_high",
+        "teachers_higher",
+        "teachers_special"
+      ]
+    }
+  },
+  "groups": {},
+  "charts": [
+    {
+      "id": "students",
+      "title": "六类学段在校生规模",
+      "type": "area",
+      "keys": [
+        "students_preschool",
+        "students_primary",
+        "students_middle",
+        "students_high",
+        "students_higher",
+        "students_special"
+      ],
+      "section": "规模与结构",
+      "category": true,
+      "wide": true
+    },
+    {
+      "id": "student_tree",
+      "title": "观察期在校生构成",
+      "type": "treemap",
+      "keys": [
+        "students_preschool",
+        "students_primary",
+        "students_middle",
+        "students_high",
+        "students_higher",
+        "students_special"
+      ],
+      "section": "规模与结构",
+      "category": true
+    },
+    {
+      "id": "student_share",
+      "title": "在校生结构的长期变化",
+      "type": "share",
+      "keys": [
+        "students_preschool",
+        "students_primary",
+        "students_middle",
+        "students_high",
+        "students_higher",
+        "students_special"
+      ],
+      "section": "规模与结构",
+      "category": true
+    },
+    {
+      "id": "parallel",
+      "title": "六类学段资源画像",
+      "type": "parallel",
+      "keys": [
+        "students_preschool",
+        "students_primary",
+        "students_middle",
+        "students_high",
+        "students_higher",
+        "students_special"
+      ],
+      "section": "规模与结构",
+      "category": true,
+      "axes": [
+        "students",
+        "teachers",
+        "schools",
+        "ratio"
+      ]
+    },
+    {
+      "id": "butterfly",
+      "title": "招生与毕业生对照",
+      "type": "butterfly",
+      "keys": [
+        "admissions_primary",
+        "admissions_middle",
+        "admissions_high",
+        "admissions_higher",
+        "admissions_special"
+      ],
+      "section": "流动与师资",
+      "rightkeys": [
+        "graduates_primary",
+        "graduates_middle",
+        "graduates_high",
+        "graduates_higher",
+        "graduates_special"
+      ],
+      "category": true
+    },
+    {
+      "id": "ratios",
+      "title": "学生与专任教师的数量比",
+      "type": "line",
+      "keys": [
+        "ratio_preschool",
+        "ratio_primary",
+        "ratio_middle",
+        "ratio_high",
+        "ratio_higher",
+        "ratio_special"
+      ],
+      "section": "流动与师资",
+      "category": true
+    },
+    {
+      "id": "slope",
+      "title": "在校生规模的起点与观察期",
+      "type": "slope",
+      "keys": [
+        "students_preschool",
+        "students_primary",
+        "students_middle",
+        "students_high",
+        "students_higher",
+        "students_special"
+      ],
+      "section": "流动与师资",
+      "category": true
+    },
+    {
+      "id": "school_trend",
+      "title": "学校数量变化",
+      "type": "line",
+      "keys": [
+        "schools_preschool",
+        "schools_primary",
+        "schools_middle",
+        "schools_high",
+        "schools_higher",
+        "schools_special"
+      ],
+      "section": "流动与师资",
+      "category": true
+    },
+    {
+      "id": "school_scatter",
+      "title": "学校、教师与在校生",
+      "type": "scatter",
+      "keys": [
+        "schools_preschool",
+        "schools_primary",
+        "schools_middle",
+        "schools_high",
+        "schools_higher",
+        "schools_special"
+      ],
+      "section": "资源配置",
+      "ykeys": [
+        "teachers_preschool",
+        "teachers_primary",
+        "teachers_middle",
+        "teachers_high",
+        "teachers_higher",
+        "teachers_special"
+      ],
+      "sizekeys": [
+        "students_preschool",
+        "students_primary",
+        "students_middle",
+        "students_high",
+        "students_higher",
+        "students_special"
+      ],
+      "category": true
+    },
+    {
+      "id": "schoolsize",
+      "title": "平均每校在校生",
+      "type": "rank",
+      "keys": [
+        "perschool_preschool",
+        "perschool_primary",
+        "perschool_middle",
+        "perschool_high",
+        "perschool_higher",
+        "perschool_special"
+      ],
+      "section": "资源配置",
+      "category": true
+    },
+    {
+      "id": "edu_heat",
+      "title": "六类在校生同比变化",
+      "type": "heatmap",
+      "keys": [
+        "students_preschool",
+        "students_primary",
+        "students_middle",
+        "students_high",
+        "students_higher",
+        "students_special"
+      ],
+      "section": "资源配置",
+      "category": true,
+      "transform": "yoy"
+    },
+    {
+      "id": "teacher_share",
+      "title": "专任教师结构",
+      "type": "share",
+      "keys": [
+        "teachers_preschool",
+        "teachers_primary",
+        "teachers_middle",
+        "teachers_high",
+        "teachers_higher",
+        "teachers_special"
+      ],
+      "section": "资源配置",
+      "category": true
+    },
+    {
+      "id": "funds",
+      "title": "教育经费投入及来源",
+      "type": "stacked",
+      "keys": [
+        "fund_public",
+        "fund_private",
+        "fund_donation",
+        "fund_institution",
+        "fund_other"
+      ],
+      "section": "教育投入",
+      "wide": true
+    },
+    {
+      "id": "fund_gdp",
+      "title": "财政性经费投入强度",
+      "type": "line",
+      "keys": [
+        "fund_gdp",
+        "fund_public_share"
+      ],
+      "section": "教育投入"
+    },
+    {
+      "id": "fund_share",
+      "title": "经费来源结构",
+      "type": "share",
+      "keys": [
+        "fund_public",
+        "fund_private",
+        "fund_donation",
+        "fund_institution",
+        "fund_other"
+      ],
+      "section": "教育投入"
+    },
+    {
+      "id": "fund_rose",
+      "title": "最近公布的经费来源",
+      "type": "rose",
+      "keys": [
+        "fund_public",
+        "fund_private",
+        "fund_donation",
+        "fund_institution",
+        "fund_other"
+      ],
+      "section": "教育投入",
+      "asof": true
+    }
+  ],
+  "cards": [
+    {
+      "key": "students_total",
+      "label": "六类学段在校生",
+      "digits": 1,
+      "vintage": true
+    },
+    {
+      "key": "students_higher",
+      "label": "本专科在校生",
+      "digits": 1,
+      "vintage": true
+    },
+    {
+      "key": "teachers_total",
+      "label": "六类专任教师",
+      "digits": 1,
+      "vintage": true
+    },
+    {
+      "key": "schools_higher",
+      "label": "普通、职业高校",
+      "digits": 0,
+      "vintage": true
+    },
+    {
+      "key": "students_preschool",
+      "label": "学前在园人数",
+      "digits": 1,
+      "vintage": true
+    },
+    {
+      "key": "fund_total",
+      "label": "教育经费投入",
+      "digits": 0,
+      "vintage": true
+    }
+  ],
+  "notes": [
+    "本看板选取学前、小学、初中、普通高中、普通职业本专科、特殊教育六类，合计不含中等职业教育、研究生和成人教育，不能解释为全国全部学历教育在校生总数。",
+    "不同学段学校数是分类统计口径，不据此推算全国不重复的校园数量。学生/专任教师、每校学生由同年同类数据计算，并非官方调整后的生师比。",
+    "学前教育未提供同口径招生与毕业序列，因此招生毕业对照只展示其他五类。",
+    "教育经费是全国教育投入，覆盖范围大于六类学段，不用全国经费除以六类学生计算所谓生均经费。",
+    "国家财政性、民办学校办学、社会捐赠、事业收入、其他经费作为来源分类；不重复加入财政预算内经费或事业收入中的学杂费。",
+    "经费明细缺失年份保留为空。财政性经费/GDP使用同年年度GDP，可用年份以实际交集为准。2020年总投入与五项来源合计相差0.0061亿元，保留各表原值。",
+    "未公布值不作0处理，亦不插值。同比只比较相邻年份；相关分析在共同非缺失的观测上计算。"
+  ],
+  "categories": [
+    {
+      "id": "preschool",
+      "label": "学前教育"
+    },
+    {
+      "id": "primary",
+      "label": "小学"
+    },
+    {
+      "id": "middle",
+      "label": "初中"
+    },
+    {
+      "id": "high",
+      "label": "普通高中"
+    },
+    {
+      "id": "higher",
+      "label": "普通、职业本专科"
+    },
+    {
+      "id": "special",
+      "label": "特殊教育"
+    }
+  ],
+  "source_url": "https://data.stats.gov.cn/dg/website/page.html#/pc/national/home",
+  "accessed_date": "2026-11-19",
+  "chart_count": 16
+}

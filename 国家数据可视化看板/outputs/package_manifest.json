@@ -1,0 +1,407 @@
+[
+  {
+    "file": ".gitattributes",
+    "bytes": 91,
+    "sha256": "668e0ae6b59a70b7eda8ee1de6cbecbc406a40847ef818bbb1a45538f0c0747e"
+  },
+  {
+    "file": ".gitignore",
+    "bytes": 50,
+    "sha256": "fc3b04518b9b47c642df3a1b2f65b928228b0ef0712c40480a577c469e5bc1be"
+  },
+  {
+    "file": ".impeccable/design.json",
+    "bytes": 27236,
+    "sha256": "b2564571077bca9bea679f5a34d598e1ce881447fb62509abc16be60c0886dc5"
+  },
+  {
+    "file": "assets/app.js",
+    "bytes": 36934,
+    "sha256": "dcad4012f7e738ef9b41d84a5a4e105ab78f4475f6e75345688e61a4b4fb1f5a"
+  },
+  {
+    "file": "assets/echarts.min.js",
+    "bytes": 1030855,
+    "sha256": "e84270bd0cd5bdf60fefc26d00c2a391cb2e81f4d26a7a9ee16185a54773a3cf"
+  },
+  {
+    "file": "assets/ECHARTS_LICENSE.txt",
+    "bytes": 11990,
+    "sha256": "634293835b43a6dd2094fa39182a3d9a6b9ca43b7fdb9ac354e8037af2a3093a"
+  },
+  {
+    "file": "assets/ECHARTS_NOTICE.txt",
+    "bytes": 168,
+    "sha256": "fa99ac3af859d0e13166906dc53a73ad34a08898da7e8ae83407275496e9e30c"
+  },
+  {
+    "file": "assets/style.css",
+    "bytes": 12769,
+    "sha256": "7b905be68dad99397ba17523ba9b2713cb8f57ad1d4794fed6039e078847b3e6"
+  },
+  {
+    "file": "dashboards/economy.html",
+    "bytes": 51727,
+    "sha256": "21029ccc9b64099d64c4e777114bac2972cb27081f845ff8a6b21454a34ad75c"
+  },
+  {
+    "file": "dashboards/education.html",
+    "bytes": 33719,
+    "sha256": "02710a00684efb1b9d2c5d0dc318716222748e37d46b28d8598c5f9a2bec8e76"
+  },
+  {
+    "file": "dashboards/population.html",
+    "bytes": 27434,
+    "sha256": "4f8b92f370050e1c7b4d944ba0f7da22ceee1f3f550c0632a5324c386bb88c9b"
+  },
+  {
+    "file": "dashboards/tourism.html",
+    "bytes": 30785,
+    "sha256": "1533e6b4cc92b443218d5d6a8a70b358a5a7fb0681e28976f06586c1a69c00a8"
+  },
+  {
+    "file": "data/clean/data_dictionary.csv",
+    "bytes": 30886,
+    "sha256": "85d9bd25de50ed535a99e0b16b2302932c27352633c5557cbde1e751c6b28545"
+  },
+  {
+    "file": "data/clean/economy.json",
+    "bytes": 71597,
+    "sha256": "9f2f8c859856a31d3cad5f72b104d6dae3dc82abf9153f7a3f28fd13f9bb55b0"
+  },
+  {
+    "file": "data/clean/education.json",
+    "bytes": 44290,
+    "sha256": "131ce6234ca29c1063d0019925c19ac4fdcde5d5b8e8d37c4eb5dcfe43e4bbaf"
+  },
+  {
+    "file": "data/clean/nbs.sqlite",
+    "bytes": 1126400,
+    "sha256": "6fd37dbb32c4a67582f4363f4a071c43c2660f2f560fad2b45ee2ed2b40931f0"
+  },
+  {
+    "file": "data/clean/nbs_observations.csv",
+    "bytes": 594843,
+    "sha256": "8639117d604abd509695cd6d40528e59c719b12777d39a1229993f818af602be"
+  },
+  {
+    "file": "data/clean/nbs_observations.json",
+    "bytes": 1372423,
+    "sha256": "7ce6a7070504f2716004819668954a3fed99a3a4f37f7c3e56f724711bbae570"
+  },
+  {
+    "file": "data/clean/population.json",
+    "bytes": 35052,
+    "sha256": "86a7560146ca9a8c9d245749686c476749e7e4c10e38bb09717059523bd14082"
+  },
+  {
+    "file": "data/clean/tourism.json",
+    "bytes": 40640,
+    "sha256": "093a8706393c73366c56571417cd1621b11c42a14589cad31743fc81d7af63cc"
+  },
+  {
+    "file": "data/raw/annual_gdp.json",
+    "bytes": 3348,
+    "sha256": "4c61e888a75ff6771e125972b7678fea841fbd1162d88fdf106e1221c87293ff"
+  },
+  {
+    "file": "data/raw/economy_contribution.json",
+    "bytes": 5982,
+    "sha256": "246e268c481044dd99e2db149d5054bfc71c3df5a8fd0815143713857d65b2a9"
+  },
+  {
+    "file": "data/raw/economy_demand.json",
+    "bytes": 5017,
+    "sha256": "b074df0a36678ccfa6f091536c5d87ea72c792537a7062a230e3222292112d63"
+  },
+  {
+    "file": "data/raw/economy_nominal.json",
+    "bytes": 22391,
+    "sha256": "73a94b65ad4b0c83433c8e88c9b7f7953fa50be1a6fe3737de0286cfb981341a"
+  },
+  {
+    "file": "data/raw/economy_qoq.json",
+    "bytes": 1805,
+    "sha256": "204c358fb310921acd9976776bb894de539d62d4622ad3225a965eca84df9a1b"
+  },
+  {
+    "file": "data/raw/economy_real_growth.json",
+    "bytes": 21588,
+    "sha256": "c3e29038098a1f438d232fd92607968b754135d8556f0fe87cc2f08f7f8d002a"
+  },
+  {
+    "file": "data/raw/education_admissions.json",
+    "bytes": 4489,
+    "sha256": "a36657ca030c76aeef319fca509030dc87337a4c3d643f6475e929c7cfca88bb"
+  },
+  {
+    "file": "data/raw/education_funding_donation.json",
+    "bytes": 12088,
+    "sha256": "411aea40870ab42b8e1bc144e11031432edb3abd219241a020bb387b25e95b91"
+  },
+  {
+    "file": "data/raw/education_funding_institution.json",
+    "bytes": 12002,
+    "sha256": "809a291b900088db7e24d533040efaa98d3682fb6603b2115e694337ddc5328e"
+  },
+  {
+    "file": "data/raw/education_funding_other.json",
+    "bytes": 12098,
+    "sha256": "63b24184f07dd03ab63b6992eea224acba4beb9b56dee380711191ead4dcb92d"
+  },
+  {
+    "file": "data/raw/education_funding_private.json",
+    "bytes": 12203,
+    "sha256": "16f88405baf2b72b02bba15a7e5d21c858504c258084111f926967d39c02b4b4"
+  },
+  {
+    "file": "data/raw/education_funding_public.json",
+    "bytes": 12379,
+    "sha256": "f503749a96717aa65ae3a6db7053d1a358342bf8bc67661cdf79649383b1c678"
+  },
+  {
+    "file": "data/raw/education_funding_total.json",
+    "bytes": 12006,
+    "sha256": "56893b8aacd3779bdc7daec64553d12a9581f49d9df2774aee81544b18bae20b"
+  },
+  {
+    "file": "data/raw/education_graduates.json",
+    "bytes": 4505,
+    "sha256": "19544364959649f961e15b98ffa86b27d99dbd36b9650ab45fcd4149e5ffc017"
+  },
+  {
+    "file": "data/raw/education_ratios.json",
+    "bytes": 4848,
+    "sha256": "f2d15ebef35401be223c233b07d205dceaf8c23a0804c43dcf529012ff55f4f2"
+  },
+  {
+    "file": "data/raw/education_schools.json",
+    "bytes": 4909,
+    "sha256": "45941cde6671eadfe042fabd4fdba7ae6c030ad6524911f111f61b65fc6aeb0d"
+  },
+  {
+    "file": "data/raw/education_students.json",
+    "bytes": 5193,
+    "sha256": "b2779b4f869fd1927f4bf1520b2430914efffce6822fe530b9c816833cf38c02"
+  },
+  {
+    "file": "data/raw/education_teachers.json",
+    "bytes": 4979,
+    "sha256": "4b010fd8dace0ffe90ee4e091624d3a1e2cac7288aa6953d7277fcf55792f4d1"
+  },
+  {
+    "file": "data/raw/living_engel.json",
+    "bytes": 2411,
+    "sha256": "b8781e60916921275d5e2a5668d811d3846496bc2c390163d346520fbcd3316f"
+  },
+  {
+    "file": "data/raw/living_income.json",
+    "bytes": 7140,
+    "sha256": "6e4519f3dfe22dcedc290539920730e2f53cbe32bfb13c8b2651ef7128fa6615"
+  },
+  {
+    "file": "data/raw/living_quintiles.json",
+    "bytes": 3599,
+    "sha256": "ba895305c6bbc2a67fd507463914c53aa0c83a7cb9b4d9d673df0cb1ca41001d"
+  },
+  {
+    "file": "data/raw/living_rural_income.json",
+    "bytes": 7192,
+    "sha256": "454d227f10ed47f9e6941ca77d639e250e692d995d236f20437455f5b06a2425"
+  },
+  {
+    "file": "data/raw/living_spending.json",
+    "bytes": 11191,
+    "sha256": "01f767906fc732b3c4f1d39d16f0dab1046bbde95d5e83448f175e93ed10ad98"
+  },
+  {
+    "file": "data/raw/living_urban_income.json",
+    "bytes": 7217,
+    "sha256": "138ccc6c3db98874f14490f49e1731df6198e19b15966a78a76b6caacf806c70"
+  },
+  {
+    "file": "data/raw/population_age.json",
+    "bytes": 4474,
+    "sha256": "ea2951d3667575af83ba1b39d0c7877e9b15b2d6635ccd2812f5a20c03ba3bc8"
+  },
+  {
+    "file": "data/raw/population_rates.json",
+    "bytes": 2434,
+    "sha256": "f97358ccef557cd33836674529f09d61f9908bf6da607d010b15fe3e5b833d93"
+  },
+  {
+    "file": "data/raw/population_total.json",
+    "bytes": 3466,
+    "sha256": "a187952a337690c0ce7ac4efeb4eda60fd59e9e894a834bc285d841b6ff636d8"
+  },
+  {
+    "file": "data/raw/source_manifest.json",
+    "bytes": 21360,
+    "sha256": "979db00f4ac7d7f7fc5f69c0b6e040fd13b68d2a6059563f2918589c007deff1"
+  },
+  {
+    "file": "data/raw/tourism_development.json",
+    "bytes": 7342,
+    "sha256": "efcbe816f202bc6538d105b5319b979535f14e36dc5061d78c875526c3fce6f1"
+  },
+  {
+    "file": "data/raw/tourism_domestic.json",
+    "bytes": 5686,
+    "sha256": "7a75a8ed7853352cb414c3e82ebcf7a2715f4c7fb79cbe26d4dfca46ebd91adf"
+  },
+  {
+    "file": "data/raw/tourism_domestic.xlsx",
+    "bytes": 8266,
+    "sha256": "520f9e26a3e002694b763550d5a5f72ee43dd036e2d33cde251f32563137ec60"
+  },
+  {
+    "file": "data/raw/tourism_income.json",
+    "bytes": 8031,
+    "sha256": "9fd26fe8afe64177aaf9e9cfb284c1d249a1235dfcdd6d13f68becdc51e85bed"
+  },
+  {
+    "file": "data/raw/tourism_origins.json",
+    "bytes": 16130,
+    "sha256": "9af83db455dec08a45d9beed6e7441a2f2d0cbabeb33b17214702f34cb13a340"
+  },
+  {
+    "file": "DESIGN.md",
+    "bytes": 11796,
+    "sha256": "679fe54a6885ab683613d887f7184b5446dc47445b037dcf6220a2672e59cffa"
+  },
+  {
+    "file": "docs/分析设计.md",
+    "bytes": 2379,
+    "sha256": "6fcd962d491024d29dec97ad5dcdc20efc8fcb322f2d0be2e97a6bc27b9cf427"
+  },
+  {
+    "file": "index.html",
+    "bytes": 51759,
+    "sha256": "9ed9a76f40fb79008c0f0eef9d89842fe396fbc593f0d0ff3f44d81b3df097f6"
+  },
+  {
+    "file": "outputs/browser_qa.json",
+    "bytes": 1819,
+    "sha256": "71ff83638fd65531642c570b8951a1fd9b7933c47d5f4b7730d96ce6230661db"
+  },
+  {
+    "file": "outputs/catalog.json",
+    "bytes": 524,
+    "sha256": "84fdc004856379f6cff2b60b26474ffde2b2ec2807f6757ac3b097c25ff6f691"
+  },
+  {
+    "file": "outputs/chart_catalog.csv",
+    "bytes": 9322,
+    "sha256": "0000f80c3d2139b7dcac25d99fb567f406051acbb5b7457faf0e1c4f449e1774"
+  },
+  {
+    "file": "outputs/data_quality.json",
+    "bytes": 175,
+    "sha256": "5f7d54d06bb19c5e4b3536701455e1e3b6e2fec959b22e35ceac646faeea9ba6"
+  },
+  {
+    "file": "outputs/previews/economy-desktop.jpg",
+    "bytes": 458408,
+    "sha256": "c3c126bef415eb2e122912ddc9f77faa195f6288eb658c5cfdb05384cfd46c25"
+  },
+  {
+    "file": "outputs/previews/economy-mobile.jpg",
+    "bytes": 334158,
+    "sha256": "b1523d12182004dfefa2a42cb980d2b9e4343cb0b9f45c67f2fb774b4ce34d5d"
+  },
+  {
+    "file": "outputs/previews/education-desktop.jpg",
+    "bytes": 431854,
+    "sha256": "45c8f719de43dd9484bdb38a841151ab7a496b4e46580e5fe061a837222f66d3"
+  },
+  {
+    "file": "outputs/previews/education-mobile.jpg",
+    "bytes": 320017,
+    "sha256": "26826581cbcd02878e9e40b188573d0c132dd1f85bcb7253ec7b66f14ebf971b"
+  },
+  {
+    "file": "outputs/previews/overview.jpg",
+    "bytes": 70742,
+    "sha256": "ce0e94e4e48e8777ad83860a435510fef7ed332e00976d5bc94717d6f652288f"
+  },
+  {
+    "file": "outputs/previews/population-desktop.jpg",
+    "bytes": 428210,
+    "sha256": "89e1be3f8722b53a60ea70357cc425aec27a2ba6ec9d6f15aca2205d71e6a8eb"
+  },
+  {
+    "file": "outputs/previews/population-mobile.jpg",
+    "bytes": 320843,
+    "sha256": "aaa34353ebbeab15982740f73fdc4146947eedf6a2edf181b625bb488f0e84c8"
+  },
+  {
+    "file": "outputs/previews/tourism-desktop.jpg",
+    "bytes": 455120,
+    "sha256": "bf87ef69351a9ec5e61bd30a9a3aa94f2bf7d23e4dbe52a158a5b6173dbba694"
+  },
+  {
+    "file": "outputs/previews/tourism-mobile.jpg",
+    "bytes": 348553,
+    "sha256": "2070603ced6d329f3576402f28ddaeae926ea8533d49529c56d174ab5f9e9023"
+  },
+  {
+    "file": "outputs/verification.json",
+    "bytes": 2372,
+    "sha256": "a5769a79bd69ae7d257fea521a52439a2b1239019f08bdf288137b5ee1f6598b"
+  },
+  {
+    "file": "PRODUCT.md",
+    "bytes": 2054,
+    "sha256": "baf0648d123e5741cf3300fc84a73ceb837b5af21eadae4d503e0f1ba46c9b8f"
+  },
+  {
+    "file": "README.md",
+    "bytes": 7621,
+    "sha256": "c1b84b58185409bbab837fb2740e248486d512a3690823dee0d63988bc1dc97c"
+  },
+  {
+    "file": "requirements.txt",
+    "bytes": 32,
+    "sha256": "44cd05ef902cf20514b3658980e4fd05f4783dce2c8170d1092a342b8c4d9b73"
+  },
+  {
+    "file": "run_all.py",
+    "bytes": 402,
+    "sha256": "c5ae6dda67acc70bed97318656797f3f2c6736d2b124d7c927a9ca93c92fbdb1"
+  },
+  {
+    "file": "scripts/01_prepare.py",
+    "bytes": 4761,
+    "sha256": "e2ea89f54928e264b202455bf78f9b285466f4e70a86f52c37da3507f5d131d9"
+  },
+  {
+    "file": "scripts/02_build_data.py",
+    "bytes": 22928,
+    "sha256": "35a11c11a06f63b92e13ec7e63b6d1565be2127ab76a729975e9d477b89ce4c0"
+  },
+  {
+    "file": "scripts/03_build.py",
+    "bytes": 2772,
+    "sha256": "32de7841939a8f49471a914839b00bd6ee4b5ca7aced2f72f5ea180b3ef6832c"
+  },
+  {
+    "file": "scripts/04_verify.py",
+    "bytes": 5314,
+    "sha256": "940be289fd62e09b88047bb78f195faca1590462c8d26e66186aa3dec79f468a"
+  },
+  {
+    "file": "scripts/05_package.py",
+    "bytes": 2029,
+    "sha256": "e9caeb2289a9f6ee0d9133ffdd8c460ff9236e05143c09a47cdaf2c6d49ab0fd"
+  },
+  {
+    "file": "scripts/dashboard_template.html",
+    "bytes": 5426,
+    "sha256": "78842964a05dd3bc30d96fbdb91f62c57e9ca662df0b579bb9d34fcfe850599f"
+  },
+  {
+    "file": "THIRD_PARTY.md",
+    "bytes": 688,
+    "sha256": "35161a188b6df6713a9ed5bf28f6dd467612cf4e086b0c919bc6dd48babf9b88"
+  }
+]

@@ -1,0 +1,671 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-19T04:18:21.383512+00:00",
+  "title": "Design System: 国家数据四主题驾驶舱",
+  "extensions": {
+    "colorMeta": {
+      "primary": {
+        "role": "primary",
+        "displayName": "primary",
+        "tonalRamp": [
+          "oklch(15% 0.08935 204.96)",
+          "oklch(26% 0.08935 204.96)",
+          "oklch(38% 0.08935 204.96)",
+          "oklch(49% 0.08935 204.96)",
+          "oklch(61% 0.08935 204.96)",
+          "oklch(72% 0.08935 204.96)",
+          "oklch(84% 0.08935 204.96)",
+          "oklch(95% 0.08935 204.96)"
+        ]
+      },
+      "primary-soft": {
+        "role": "neutral",
+        "displayName": "primary-soft",
+        "tonalRamp": [
+          "oklch(15% 0.01591 201.70)",
+          "oklch(26% 0.01591 201.70)",
+          "oklch(38% 0.01591 201.70)",
+          "oklch(49% 0.01591 201.70)",
+          "oklch(61% 0.01591 201.70)",
+          "oklch(72% 0.01591 201.70)",
+          "oklch(84% 0.01591 201.70)",
+          "oklch(95% 0.01591 201.70)"
+        ]
+      },
+      "education": {
+        "role": "secondary",
+        "displayName": "education",
+        "tonalRamp": [
+          "oklch(15% 0.11696 266.16)",
+          "oklch(26% 0.11696 266.16)",
+          "oklch(38% 0.11696 266.16)",
+          "oklch(49% 0.11696 266.16)",
+          "oklch(61% 0.11696 266.16)",
+          "oklch(72% 0.11696 266.16)",
+          "oklch(84% 0.11696 266.16)",
+          "oklch(95% 0.11696 266.16)"
+        ]
+      },
+      "population": {
+        "role": "secondary",
+        "displayName": "population",
+        "tonalRamp": [
+          "oklch(15% 0.10480 273.68)",
+          "oklch(26% 0.10480 273.68)",
+          "oklch(38% 0.10480 273.68)",
+          "oklch(49% 0.10480 273.68)",
+          "oklch(61% 0.10480 273.68)",
+          "oklch(72% 0.10480 273.68)",
+          "oklch(84% 0.10480 273.68)",
+          "oklch(95% 0.10480 273.68)"
+        ]
+      },
+      "indigo-soft": {
+        "role": "neutral",
+        "displayName": "indigo-soft",
+        "tonalRamp": [
+          "oklch(15% 0.01378 272.69)",
+          "oklch(26% 0.01378 272.69)",
+          "oklch(38% 0.01378 272.69)",
+          "oklch(49% 0.01378 272.69)",
+          "oklch(61% 0.01378 272.69)",
+          "oklch(72% 0.01378 272.69)",
+          "oklch(84% 0.01378 272.69)",
+          "oklch(95% 0.01378 272.69)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "ink",
+        "tonalRamp": [
+          "oklch(15% 0.04388 224.55)",
+          "oklch(26% 0.04388 224.55)",
+          "oklch(38% 0.04388 224.55)",
+          "oklch(49% 0.04388 224.55)",
+          "oklch(61% 0.04388 224.55)",
+          "oklch(72% 0.04388 224.55)",
+          "oklch(84% 0.04388 224.55)",
+          "oklch(95% 0.04388 224.55)"
+        ]
+      },
+      "chart-ink": {
+        "role": "neutral",
+        "displayName": "chart-ink",
+        "tonalRamp": [
+          "oklch(15% 0.04379 221.09)",
+          "oklch(26% 0.04379 221.09)",
+          "oklch(38% 0.04379 221.09)",
+          "oklch(49% 0.04379 221.09)",
+          "oklch(61% 0.04379 221.09)",
+          "oklch(72% 0.04379 221.09)",
+          "oklch(84% 0.04379 221.09)",
+          "oklch(95% 0.04379 221.09)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "muted",
+        "tonalRamp": [
+          "oklch(15% 0.04198 227.59)",
+          "oklch(26% 0.04198 227.59)",
+          "oklch(38% 0.04198 227.59)",
+          "oklch(49% 0.04198 227.59)",
+          "oklch(61% 0.04198 227.59)",
+          "oklch(72% 0.04198 227.59)",
+          "oklch(84% 0.04198 227.59)",
+          "oklch(95% 0.04198 227.59)"
+        ]
+      },
+      "secondary": {
+        "role": "neutral",
+        "displayName": "secondary",
+        "tonalRamp": [
+          "oklch(15% 0.03784 226.17)",
+          "oklch(26% 0.03784 226.17)",
+          "oklch(38% 0.03784 226.17)",
+          "oklch(49% 0.03784 226.17)",
+          "oklch(61% 0.03784 226.17)",
+          "oklch(72% 0.03784 226.17)",
+          "oklch(84% 0.03784 226.17)",
+          "oklch(95% 0.03784 226.17)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "line",
+        "tonalRamp": [
+          "oklch(15% 0.01525 228.97)",
+          "oklch(26% 0.01525 228.97)",
+          "oklch(38% 0.01525 228.97)",
+          "oklch(49% 0.01525 228.97)",
+          "oklch(61% 0.01525 228.97)",
+          "oklch(72% 0.01525 228.97)",
+          "oklch(84% 0.01525 228.97)",
+          "oklch(95% 0.01525 228.97)"
+        ]
+      },
+      "ground": {
+        "role": "neutral",
+        "displayName": "ground",
+        "tonalRamp": [
+          "oklch(15% 0.00848 225.08)",
+          "oklch(26% 0.00848 225.08)",
+          "oklch(38% 0.00848 225.08)",
+          "oklch(49% 0.00848 225.08)",
+          "oklch(61% 0.00848 225.08)",
+          "oklch(72% 0.00848 225.08)",
+          "oklch(84% 0.00848 225.08)",
+          "oklch(95% 0.00848 225.08)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "surface",
+        "tonalRamp": [
+          "oklch(15% 0.00000 89.88)",
+          "oklch(26% 0.00000 89.88)",
+          "oklch(38% 0.00000 89.88)",
+          "oklch(49% 0.00000 89.88)",
+          "oklch(61% 0.00000 89.88)",
+          "oklch(72% 0.00000 89.88)",
+          "oklch(84% 0.00000 89.88)",
+          "oklch(95% 0.00000 89.88)"
+        ]
+      },
+      "positive": {
+        "role": "tertiary",
+        "displayName": "positive",
+        "tonalRamp": [
+          "oklch(15% 0.08988 199.82)",
+          "oklch(26% 0.08988 199.82)",
+          "oklch(38% 0.08988 199.82)",
+          "oklch(49% 0.08988 199.82)",
+          "oklch(61% 0.08988 199.82)",
+          "oklch(72% 0.08988 199.82)",
+          "oklch(84% 0.08988 199.82)",
+          "oklch(95% 0.08988 199.82)"
+        ]
+      },
+      "negative": {
+        "role": "tertiary",
+        "displayName": "negative",
+        "tonalRamp": [
+          "oklch(15% 0.13998 29.88)",
+          "oklch(26% 0.13998 29.88)",
+          "oklch(38% 0.13998 29.88)",
+          "oklch(49% 0.13998 29.88)",
+          "oklch(61% 0.13998 29.88)",
+          "oklch(72% 0.13998 29.88)",
+          "oklch(84% 0.13998 29.88)",
+          "oklch(95% 0.13998 29.88)"
+        ]
+      },
+      "label-dark": {
+        "role": "neutral",
+        "displayName": "label-dark",
+        "tonalRamp": [
+          "oklch(15% 0.02167 224.56)",
+          "oklch(26% 0.02167 224.56)",
+          "oklch(38% 0.02167 224.56)",
+          "oklch(49% 0.02167 224.56)",
+          "oklch(61% 0.02167 224.56)",
+          "oklch(72% 0.02167 224.56)",
+          "oklch(84% 0.02167 224.56)",
+          "oklch(95% 0.02167 224.56)"
+        ]
+      },
+      "control-surface": {
+        "role": "neutral",
+        "displayName": "control-surface",
+        "tonalRamp": [
+          "oklch(15% 0.00445 214.33)",
+          "oklch(26% 0.00445 214.33)",
+          "oklch(38% 0.00445 214.33)",
+          "oklch(49% 0.00445 214.33)",
+          "oklch(61% 0.00445 214.33)",
+          "oklch(72% 0.00445 214.33)",
+          "oklch(84% 0.00445 214.33)",
+          "oklch(95% 0.00445 214.33)"
+        ]
+      },
+      "control-line": {
+        "role": "neutral",
+        "displayName": "control-line",
+        "tonalRamp": [
+          "oklch(15% 0.01954 230.72)",
+          "oklch(26% 0.01954 230.72)",
+          "oklch(38% 0.01954 230.72)",
+          "oklch(49% 0.01954 230.72)",
+          "oklch(61% 0.01954 230.72)",
+          "oklch(72% 0.01954 230.72)",
+          "oklch(84% 0.01954 230.72)",
+          "oklch(95% 0.01954 230.72)"
+        ]
+      },
+      "segmented-ground": {
+        "role": "neutral",
+        "displayName": "segmented-ground",
+        "tonalRamp": [
+          "oklch(15% 0.00946 222.06)",
+          "oklch(26% 0.00946 222.06)",
+          "oklch(38% 0.00946 222.06)",
+          "oklch(49% 0.00946 222.06)",
+          "oklch(61% 0.00946 222.06)",
+          "oklch(72% 0.00946 222.06)",
+          "oklch(84% 0.00946 222.06)",
+          "oklch(95% 0.00946 222.06)"
+        ]
+      },
+      "table-head": {
+        "role": "neutral",
+        "displayName": "table-head",
+        "tonalRamp": [
+          "oklch(15% 0.00596 223.46)",
+          "oklch(26% 0.00596 223.46)",
+          "oklch(38% 0.00596 223.46)",
+          "oklch(49% 0.00596 223.46)",
+          "oklch(61% 0.00596 223.46)",
+          "oklch(72% 0.00596 223.46)",
+          "oklch(84% 0.00596 223.46)",
+          "oklch(95% 0.00596 223.46)"
+        ]
+      },
+      "chart-grid": {
+        "role": "neutral",
+        "displayName": "chart-grid",
+        "tonalRamp": [
+          "oklch(15% 0.01012 228.89)",
+          "oklch(26% 0.01012 228.89)",
+          "oklch(38% 0.01012 228.89)",
+          "oklch(49% 0.01012 228.89)",
+          "oklch(61% 0.01012 228.89)",
+          "oklch(72% 0.01012 228.89)",
+          "oklch(84% 0.01012 228.89)",
+          "oklch(95% 0.01012 228.89)"
+        ]
+      },
+      "category-01": {
+        "role": "tertiary",
+        "displayName": "category-01",
+        "tonalRamp": [
+          "oklch(15% 0.09684 204.88)",
+          "oklch(26% 0.09684 204.88)",
+          "oklch(38% 0.09684 204.88)",
+          "oklch(49% 0.09684 204.88)",
+          "oklch(61% 0.09684 204.88)",
+          "oklch(72% 0.09684 204.88)",
+          "oklch(84% 0.09684 204.88)",
+          "oklch(95% 0.09684 204.88)"
+        ]
+      },
+      "category-02": {
+        "role": "tertiary",
+        "displayName": "category-02",
+        "tonalRamp": [
+          "oklch(15% 0.10891 237.12)",
+          "oklch(26% 0.10891 237.12)",
+          "oklch(38% 0.10891 237.12)",
+          "oklch(49% 0.10891 237.12)",
+          "oklch(61% 0.10891 237.12)",
+          "oklch(72% 0.10891 237.12)",
+          "oklch(84% 0.10891 237.12)",
+          "oklch(95% 0.10891 237.12)"
+        ]
+      },
+      "category-03": {
+        "role": "tertiary",
+        "displayName": "category-03",
+        "tonalRamp": [
+          "oklch(15% 0.12537 284.43)",
+          "oklch(26% 0.12537 284.43)",
+          "oklch(38% 0.12537 284.43)",
+          "oklch(49% 0.12537 284.43)",
+          "oklch(61% 0.12537 284.43)",
+          "oklch(72% 0.12537 284.43)",
+          "oklch(84% 0.12537 284.43)",
+          "oklch(95% 0.12537 284.43)"
+        ]
+      },
+      "category-04": {
+        "role": "tertiary",
+        "displayName": "category-04",
+        "tonalRamp": [
+          "oklch(15% 0.10100 174.94)",
+          "oklch(26% 0.10100 174.94)",
+          "oklch(38% 0.10100 174.94)",
+          "oklch(49% 0.10100 174.94)",
+          "oklch(61% 0.10100 174.94)",
+          "oklch(72% 0.10100 174.94)",
+          "oklch(84% 0.10100 174.94)",
+          "oklch(95% 0.10100 174.94)"
+        ]
+      },
+      "category-05": {
+        "role": "tertiary",
+        "displayName": "category-05",
+        "tonalRamp": [
+          "oklch(15% 0.12333 77.80)",
+          "oklch(26% 0.12333 77.80)",
+          "oklch(38% 0.12333 77.80)",
+          "oklch(49% 0.12333 77.80)",
+          "oklch(61% 0.12333 77.80)",
+          "oklch(72% 0.12333 77.80)",
+          "oklch(84% 0.12333 77.80)",
+          "oklch(95% 0.12333 77.80)"
+        ]
+      },
+      "category-06": {
+        "role": "tertiary",
+        "displayName": "category-06",
+        "tonalRamp": [
+          "oklch(15% 0.10396 31.04)",
+          "oklch(26% 0.10396 31.04)",
+          "oklch(38% 0.10396 31.04)",
+          "oklch(49% 0.10396 31.04)",
+          "oklch(61% 0.10396 31.04)",
+          "oklch(72% 0.10396 31.04)",
+          "oklch(84% 0.10396 31.04)",
+          "oklch(95% 0.10396 31.04)"
+        ]
+      },
+      "category-07": {
+        "role": "tertiary",
+        "displayName": "category-07",
+        "tonalRamp": [
+          "oklch(15% 0.07099 251.64)",
+          "oklch(26% 0.07099 251.64)",
+          "oklch(38% 0.07099 251.64)",
+          "oklch(49% 0.07099 251.64)",
+          "oklch(61% 0.07099 251.64)",
+          "oklch(72% 0.07099 251.64)",
+          "oklch(84% 0.07099 251.64)",
+          "oklch(95% 0.07099 251.64)"
+        ]
+      },
+      "category-08": {
+        "role": "tertiary",
+        "displayName": "category-08",
+        "tonalRamp": [
+          "oklch(15% 0.08429 305.85)",
+          "oklch(26% 0.08429 305.85)",
+          "oklch(38% 0.08429 305.85)",
+          "oklch(49% 0.08429 305.85)",
+          "oklch(61% 0.08429 305.85)",
+          "oklch(72% 0.08429 305.85)",
+          "oklch(84% 0.08429 305.85)",
+          "oklch(95% 0.08429 305.85)"
+        ]
+      },
+      "category-09": {
+        "role": "tertiary",
+        "displayName": "category-09",
+        "tonalRamp": [
+          "oklch(15% 0.06790 214.37)",
+          "oklch(26% 0.06790 214.37)",
+          "oklch(38% 0.06790 214.37)",
+          "oklch(49% 0.06790 214.37)",
+          "oklch(61% 0.06790 214.37)",
+          "oklch(72% 0.06790 214.37)",
+          "oklch(84% 0.06790 214.37)",
+          "oklch(95% 0.06790 214.37)"
+        ]
+      },
+      "category-10": {
+        "role": "tertiary",
+        "displayName": "category-10",
+        "tonalRamp": [
+          "oklch(15% 0.10777 118.82)",
+          "oklch(26% 0.10777 118.82)",
+          "oklch(38% 0.10777 118.82)",
+          "oklch(49% 0.10777 118.82)",
+          "oklch(61% 0.10777 118.82)",
+          "oklch(72% 0.10777 118.82)",
+          "oklch(84% 0.10777 118.82)",
+          "oklch(95% 0.10777 118.82)"
+        ]
+      },
+      "category-11": {
+        "role": "tertiary",
+        "displayName": "category-11",
+        "tonalRamp": [
+          "oklch(15% 0.08175 55.52)",
+          "oklch(26% 0.08175 55.52)",
+          "oklch(38% 0.08175 55.52)",
+          "oklch(49% 0.08175 55.52)",
+          "oklch(61% 0.08175 55.52)",
+          "oklch(72% 0.08175 55.52)",
+          "oklch(84% 0.08175 55.52)",
+          "oklch(95% 0.08175 55.52)"
+        ]
+      },
+      "category-12": {
+        "role": "tertiary",
+        "displayName": "category-12",
+        "tonalRamp": [
+          "oklch(15% 0.05619 221.30)",
+          "oklch(26% 0.05619 221.30)",
+          "oklch(38% 0.05619 221.30)",
+          "oklch(49% 0.05619 221.30)",
+          "oklch(61% 0.05619 221.30)",
+          "oklch(72% 0.05619 221.30)",
+          "oklch(84% 0.05619 221.30)",
+          "oklch(95% 0.05619 221.30)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "display",
+        "purpose": "指标数值；随断点调整。"
+      },
+      "headline": {
+        "displayName": "headline",
+        "purpose": "页面标题。"
+      },
+      "title": {
+        "displayName": "title",
+        "purpose": "图组标题。"
+      },
+      "body": {
+        "displayName": "body",
+        "purpose": "基础中文正文。"
+      },
+      "label": {
+        "displayName": "label",
+        "purpose": "控件、指标标签与单位。"
+      },
+      "panel-title": {
+        "displayName": "panel-title",
+        "purpose": "图表面板标题。"
+      }
+    },
+    "shadows": [
+      {
+        "name": "kpi",
+        "value": "0 5px 16px rgba(24,63,78,.055)",
+        "purpose": "指标卡的轻环境层次。"
+      },
+      {
+        "name": "control-bar",
+        "value": "0 3px 10px rgba(24,63,78,.025)",
+        "purpose": "粘性筛选工具栏。"
+      },
+      {
+        "name": "segment-selected",
+        "value": "0 1px 5px #17384410",
+        "purpose": "分段控件选中项。"
+      },
+      {
+        "name": "dialog",
+        "value": "0 20px 80px rgba(10,35,45,.23)",
+        "purpose": "临时模态前景。"
+      },
+      {
+        "name": "tooltip",
+        "value": "0 5px 22px #17384415",
+        "purpose": "图表悬浮信息。"
+      },
+      {
+        "name": "toast",
+        "value": "0 5px 20px #102d4920",
+        "purpose": "临时操作反馈。"
+      }
+    ],
+    "motion": [
+      {
+        "name": "chart-update",
+        "value": "240ms",
+        "purpose": "桌面初始及数据更新动画。"
+      },
+      {
+        "name": "mobile-chart",
+        "value": "0ms",
+        "purpose": "innerWidth<720 时关闭图表动画；SVG渲染。"
+      },
+      {
+        "name": "reduced-motion-chart",
+        "value": "0ms",
+        "purpose": "尊重减少动态效果偏好。"
+      },
+      {
+        "name": "period-playback",
+        "value": "1500ms",
+        "purpose": "观察时期播放间隔。"
+      },
+      {
+        "name": "scroll",
+        "value": "smooth",
+        "purpose": "普通模式滚动；减少动态效果偏好时为auto。"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide",
+        "value": "min-width:1550px"
+      },
+      {
+        "name": "compact",
+        "value": "max-width:1180px"
+      },
+      {
+        "name": "mobile-layout",
+        "value": "max-width:720px"
+      },
+      {
+        "name": "mobile-chart-renderer",
+        "value": "innerWidth<720"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "主按钮",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "主题色主操作；示例显示经济/旅游主题。",
+      "html": "<button class=\"ds-primary\">播放</button>",
+      "css": ".ds-primary{border:1px solid var(--line,#cfdee6);border-radius:8px;min-height:36px;padding:6px 12px;font-size:14px;line-height:1.5;cursor:pointer;font-family:\"Microsoft YaHei\",\"Noto Sans SC\",\"PingFang SC\",sans-serif;background:var(--accent,#087b85);color:#fff;border-color:var(--accent,#087b85);font-weight:700}.ds-primary:hover{filter:brightness(.94)}.ds-primary:active{filter:brightness(.90)}.ds-primary:focus-visible{outline:3px solid var(--accent,#087b85);outline-offset:3px}"
+    },
+    {
+      "name": "普通按钮",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "导出、口径与重置等常规操作。",
+      "html": "<button class=\"ds-secondary\">导出数据</button>",
+      "css": ".ds-secondary{border:1px solid var(--line,#cfdee6);border-radius:8px;min-height:36px;padding:6px 12px;font-size:14px;line-height:1.5;cursor:pointer;font-family:\"Microsoft YaHei\",\"Noto Sans SC\",\"PingFang SC\",sans-serif;background:#fff;color:var(--ink,#173844)}.ds-secondary:hover{background:var(--accent-soft,#e5f4f5);border-color:var(--accent,#087b85)}.ds-secondary:focus-visible{outline:3px solid var(--accent,#087b85);outline-offset:3px}"
+    },
+    {
+      "name": "时期选择",
+      "kind": "input",
+      "refersTo": "period-select",
+      "description": "原生选择器表达当前观察时期。",
+      "html": "<label class=\"ds-period\">观察年份 <select aria-label=\"观察年份\"><option>2025</option><option>2024</option></select></label>",
+      "css": ".ds-period{color:var(--muted,#52717f);font-size:12px;font-family:\"Microsoft YaHei\",\"Noto Sans SC\",\"PingFang SC\",sans-serif;}.ds-period select{border:1px solid var(--line,#cfdee6);border-radius:8px;min-height:36px;padding:6px 12px;font-size:14px;line-height:1.5;cursor:pointer;font-family:\"Microsoft YaHei\",\"Noto Sans SC\",\"PingFang SC\",sans-serif;background:#fff;color:var(--accent,#087b85);font-weight:700;min-width:106px}.ds-period select:hover{border-color:var(--accent,#087b85)}.ds-period select:focus-visible{outline:3px solid var(--accent,#087b85);outline-offset:3px}"
+    },
+    {
+      "name": "主题导航",
+      "kind": "nav",
+      "refersTo": "nav-active",
+      "description": "四主题导航的当前页与可见交互状态。",
+      "html": "<nav class=\"ds-nav\" aria-label=\"主题\"><a href=\"#economic\" aria-current=\"page\">季度经济</a><a href=\"#tourism\">旅游与住宿</a></nav>",
+      "css": ".ds-nav{display:flex;gap:5px;font-family:\"Microsoft YaHei\",\"Noto Sans SC\",\"PingFang SC\",sans-serif;}.ds-nav a{padding:8px 15px;border-radius:8px;font-size:13px;text-decoration:none;color:var(--muted,#52717f)}.ds-nav a:hover{background:#f1f6f8}.ds-nav a[aria-current=\"page\"]{background:var(--accent-soft,#e5f4f5);color:var(--accent,#087b85);font-weight:700}.ds-nav a:focus-visible{outline:3px solid var(--accent,#087b85);outline-offset:3px}"
+    },
+    {
+      "name": "发布年份标记",
+      "kind": "chip",
+      "refersTo": "vintage-tag",
+      "description": "实际发布年份，不是可点击筛选标签。",
+      "html": "<span class=\"ds-vintage\">2024年</span>",
+      "css": ".ds-vintage{display:inline-block;font-size:10px;color:var(--accent,#087b85);background:var(--accent-soft,#e5f4f5);padding:2px 5px;border-radius:4px;font-family:\"Microsoft YaHei\",\"Noto Sans SC\",\"PingFang SC\",sans-serif;}"
+    },
+    {
+      "name": "图表面板",
+      "kind": "card",
+      "refersTo": "panel",
+      "description": "白色图面、标题、单位与放大操作。",
+      "html": "<article class=\"ds-panel\"><header><div><h3>观察期结构</h3><p>单位：万人</p></div><button aria-label=\"放大图表\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M8 4H4v4m12-4h4v4M4 16v4h4m12-4v4h-4\"/></svg></button></header><div class=\"ds-chart-space\">图表区域</div></article>",
+      "css": ".ds-panel{background:#fff;border:1px solid var(--line,#dbe7ed);border-radius:15px;overflow:hidden;color:var(--ink,#173844);font-family:\"Microsoft YaHei\",\"Noto Sans SC\",\"PingFang SC\",sans-serif;}.ds-panel header{display:flex;justify-content:space-between;align-items:start;padding:17px 17px 3px;gap:7px}.ds-panel h3{font-size:16px;line-height:1.6;margin:0}.ds-panel p{font-size:11px;color:var(--subtle,#506c78);margin:3px 0 0}.ds-panel button{background:transparent;border:0;border-radius:4px;padding:3px;color:var(--subtle,#506c78);cursor:pointer}.ds-panel button:hover{background:var(--accent-soft,#e5f4f5);color:var(--accent,#087b85)}.ds-panel button:focus-visible{outline:3px solid var(--accent,#087b85);outline-offset:3px}.ds-panel svg{width:15px;height:15px;fill:none;stroke:currentColor;stroke-width:1.6}.ds-chart-space{height:120px;display:grid;place-items:center;color:var(--muted,#52717f);font-size:12px}"
+    },
+    {
+      "name": "关键指标",
+      "kind": "card",
+      "refersTo": "kpi",
+      "description": "大数字与紧随数值的单位。",
+      "html": "<article class=\"ds-kpi\"><div class=\"ds-label\">观察指标</div><div class=\"ds-value\">1,234.5<span>万人</span></div><div class=\"ds-change\">同比 <b>+1.6%</b></div></article>",
+      "css": ".ds-kpi{background:#fff;border-radius:12px;box-shadow:0 5px 16px rgba(24,63,78,.055);padding:17px 18px 13px;color:var(--ink,#173844);font-variant-numeric:tabular-nums;font-family:\"Microsoft YaHei\",\"Noto Sans SC\",\"PingFang SC\",sans-serif;}.ds-label{font-size:12px;line-height:1.45;color:var(--muted,#52717f)}.ds-value{font-size:31px;font-weight:750;line-height:1.5;letter-spacing:-.025em}.ds-value span{font-size:12px;margin-left:4px;font-weight:400;letter-spacing:0;color:var(--muted,#52717f)}.ds-change{font-size:11px;color:var(--subtle,#506c78)}.ds-change b{color:var(--positive,#0a7e83)}"
+    },
+    {
+      "name": "口径分段控件",
+      "kind": "custom",
+      "refersTo": "segmented-active",
+      "description": "经济主题的当季与累计状态。",
+      "html": "<div class=\"ds-segment\" role=\"group\" aria-label=\"统计口径\"><button aria-pressed=\"true\">当季</button><button aria-pressed=\"false\">累计</button></div>",
+      "css": ".ds-segment{display:inline-flex;background:#e8f0f3;padding:3px;border-radius:9px;font-family:\"Microsoft YaHei\",\"Noto Sans SC\",\"PingFang SC\",sans-serif;}.ds-segment button{border:0;border-radius:7px;color:var(--muted,#52717f);background:transparent;padding:6px 11px;font-size:12px;cursor:pointer}.ds-segment button[aria-pressed=\"true\"]{background:#fff;color:var(--accent,#087b85);box-shadow:0 1px 5px #17384410;font-weight:700}.ds-segment button:hover{color:var(--accent,#087b85)}.ds-segment button:focus-visible{outline:3px solid var(--accent,#087b85);outline-offset:3px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "清晰可核查的统计驾驶舱",
+    "overview": "以用户固定的季度经济、教育与旅游看板参考为视觉依据，使用雾蓝底色、白色图面、深色中文和克制的分类色，让时间、规模、结构与变化可以在同一屏中比较。界面由工具栏、指标与图组构成，视觉重点始终落在数据。\n\n经济和旅游采用青蓝主色，教育与人口采用各自的蓝紫主题色；共同的留白、层级和组件使四个主题保持一致。这里记录的是完成后的原生 HTML/CSS/ECharts 实现，代码与实际输出优先于早期意图；方向标识为 pinned-reference-20261119。",
+    "keyCharacteristics": [
+      "浅雾蓝画布与白色图面，紧凑而有层级。",
+      "中文无衬线字体、等宽数字与清晰单位。",
+      "同一分类跨图保持颜色一致。",
+      "桌面多列图组，手机按阅读顺序纵向展开。"
+    ],
+    "rules": [
+      {
+        "name": "The Theme Continuity Rule",
+        "body": "经济和旅游使用青蓝主题，教育和人口保留已实现的蓝紫主题；所有主题共享同一套中性色与组件结构。",
+        "section": "colors"
+      },
+      {
+        "name": "The Category Identity Rule",
+        "body": "分类颜色代表稳定的数据类别；教育的平行坐标、面积图和图例沿用同一学段映射。",
+        "section": "colors"
+      },
+      {
+        "name": "The Measured Label Rule",
+        "body": "图表保留单位，明细与导出使用完整指标名称及口径；缩写只用于需要节省空间的图内标签。",
+        "section": "typography"
+      },
+      {
+        "name": "The Quiet Depth Rule",
+        "body": "常态图面以白色、浅边框和间距分组；显著阴影留给模态层，指标仅用轻微环境阴影。",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do 保留雾蓝背景、白色面板及各主题现有主色。",
+      "Do 使用统一时间轴联动图表、指标和明细，并保留实际发布年份标记。",
+      "Do 在图表说明或坐标轴上持续显示单位；保留完整指标名称与统计口径。",
+      "Do 保持分类图例、数据标记和跨图类别颜色一致。",
+      "Do 在手机上采用单列图表与两列指标，并保留可操作的筛选工具。"
+    ],
+    "donts": [
+      "Don't 添加栅格主视觉或装饰性照片抢占统计图表空间。",
+      "Don't 把教育和人口的蓝紫主题强行改成通用青蓝。",
+      "Don't 用浅色文字覆盖矩形树图或热力图的数据块；沿用深色标签。",
+      "Don't 通过补造缺失年份、隐藏口径差异或只给缩写来制造完整感。"
+    ]
+  }
+}

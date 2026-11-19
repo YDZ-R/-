@@ -1,0 +1,30 @@
+[
+  {
+    "id": "economy",
+    "title": "国民经济季度运行",
+    "periods": 18,
+    "charts": 16,
+    "series": 79
+  },
+  {
+    "id": "tourism",
+    "title": "全国旅游与住宿",
+    "periods": 15,
+    "charts": 16,
+    "series": 50
+  },
+  {
+    "id": "education",
+    "title": "全国教育发展",
+    "periods": 15,
+    "charts": 16,
+    "series": 51
+  },
+  {
+    "id": "population",
+    "title": "人口与居民生活",
+    "periods": 15,
+    "charts": 16,
+    "series": 43
+  }
+]

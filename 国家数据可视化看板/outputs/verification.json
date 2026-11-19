@@ -1,0 +1,108 @@
+{
+  "passed": true,
+  "checks": 1205,
+  "source_mapped_cells": 3124,
+  "chart_types": 23,
+  "failures": [],
+  "aggregates": [
+    {
+      "check": "economy gdp_current 分类合计",
+      "passed": true,
+      "detail": {
+        "max_difference": 1e-05,
+        "tolerance": 0.000201,
+        "periods": 18
+      }
+    },
+    {
+      "check": "economy gdp_cumulative 分类合计",
+      "passed": true,
+      "detail": {
+        "max_difference": 1e-05,
+        "tolerance": 0.000201,
+        "periods": 18
+      }
+    },
+    {
+      "check": "tourism trips 分类合计",
+      "passed": true,
+      "detail": {
+        "max_difference": 0.01,
+        "tolerance": 0.010001,
+        "periods": 15
+      }
+    },
+    {
+      "check": "tourism spending 分类合计",
+      "passed": true,
+      "detail": {
+        "max_difference": 1e-05,
+        "tolerance": 2.1e-05,
+        "periods": 15
+      }
+    },
+    {
+      "check": "population population 分类合计",
+      "passed": true,
+      "detail": {
+        "max_difference": 0.0,
+        "tolerance": 1,
+        "periods": 15
+      }
+    },
+    {
+      "check": "population population 分类合计",
+      "passed": true,
+      "detail": {
+        "max_difference": 0.0,
+        "tolerance": 1,
+        "periods": 15
+      }
+    },
+    {
+      "check": "population population 分类合计",
+      "passed": true,
+      "detail": {
+        "max_difference": 1.0,
+        "tolerance": 1,
+        "periods": 15
+      }
+    },
+    {
+      "check": "population consumption 分类合计",
+      "passed": true,
+      "detail": {
+        "max_difference": 1.0,
+        "tolerance": 3,
+        "periods": 15
+      }
+    },
+    {
+      "check": "population income 分类合计",
+      "passed": true,
+      "detail": {
+        "max_difference": 1.0,
+        "tolerance": 2,
+        "periods": 15
+      }
+    },
+    {
+      "check": "education fund_total 分类合计",
+      "passed": true,
+      "detail": {
+        "max_difference": 0.0061,
+        "tolerance": 0.01,
+        "periods": 14
+      }
+    }
+  ],
+  "data_quality": {
+    "tables": 31,
+    "indicators": 420,
+    "cells": 6507,
+    "observed_cells": 4064,
+    "missing_cells": 2443,
+    "official_excel_matched_cells": 135,
+    "filled_cells": 0
+  }
+}

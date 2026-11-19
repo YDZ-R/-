@@ -1,0 +1,224 @@
+﻿主题,指标键,显示名,单位,源表,源指标,转换系数,减去常数,计算依赖,最早有效期,最近有效期,有效观测数
+国民经济季度运行,gdp_current,国内生产总值,万亿元,economy_nominal,国内生产总值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,gdp_growth_current,国内生产总值,%,economy_real_growth,国内生产总值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,sector1_current,第一产业,万亿元,economy_nominal,第一产业增加值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,sector1_growth_current,第一产业,%,economy_real_growth,第一产业增加值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,sector2_current,第二产业,万亿元,economy_nominal,第二产业增加值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,sector2_growth_current,第二产业,%,economy_real_growth,第二产业增加值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,sector3_current,第三产业,万亿元,economy_nominal,第三产业增加值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,sector3_growth_current,第三产业,%,economy_real_growth,第三产业增加值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,agriculture_current,农林牧渔业,万亿元,economy_nominal,农林牧渔业增加值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,agriculture_growth_current,农林牧渔业,%,economy_real_growth,农林牧渔业增加值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,industry_current,工业,万亿元,economy_nominal,工业增加值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,industry_growth_current,工业,%,economy_real_growth,工业增加值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,construction_current,建筑业,万亿元,economy_nominal,建筑业增加值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,construction_growth_current,建筑业,%,economy_real_growth,建筑业增加值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,trade_current,批发和零售业,万亿元,economy_nominal,批发和零售业增加值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,trade_growth_current,批发和零售业,%,economy_real_growth,批发和零售业增加值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,transport_current,交通运输、仓储和邮政业,万亿元,economy_nominal,交通运输、仓储和邮政业增加值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,transport_growth_current,交通运输、仓储和邮政业,%,economy_real_growth,交通运输、仓储和邮政业增加值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,hospitality_current,住宿和餐饮业,万亿元,economy_nominal,住宿和餐饮业增加值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,hospitality_growth_current,住宿和餐饮业,%,economy_real_growth,住宿和餐饮业增加值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,finance_current,金融业,万亿元,economy_nominal,金融业增加值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,finance_growth_current,金融业,%,economy_real_growth,金融业增加值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,estate_current,房地产业,万亿元,economy_nominal,房地产业增加值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,estate_growth_current,房地产业,%,economy_real_growth,房地产业增加值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,it_current,信息传输、软件和信息技术服务业,万亿元,economy_nominal,信息传输、软件和信息技术服务业增加值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,it_growth_current,信息传输、软件和信息技术服务业,%,economy_real_growth,信息传输、软件和信息技术服务业增加值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,business_current,租赁和商务服务业,万亿元,economy_nominal,租赁和商务服务业增加值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,business_growth_current,租赁和商务服务业,%,economy_real_growth,租赁和商务服务业增加值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,other_current,其他服务业,万亿元,economy_nominal,其他行业增加值当季值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,other_growth_current,其他服务业,%,economy_real_growth,其他行业增加值指数 (上年同期=100) 当季值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,share1_current,第一产业,%,计算指标,,,,sector1_current;gdp_current,2022Q2,2026Q3,18
+国民经济季度运行,contrib1_current,第一产业,%,economy_contribution,第一产业贡献率当季值 (%),1,0,,2022Q2,2026Q3,18
+国民经济季度运行,share2_current,第二产业,%,计算指标,,,,sector2_current;gdp_current,2022Q2,2026Q3,18
+国民经济季度运行,contrib2_current,第二产业,%,economy_contribution,第二产业贡献率当季值 (%),1,0,,2022Q2,2026Q3,18
+国民经济季度运行,share3_current,第三产业,%,计算指标,,,,sector3_current;gdp_current,2022Q2,2026Q3,18
+国民经济季度运行,contrib3_current,第三产业,%,economy_contribution,第三产业贡献率当季值 (%),1,0,,2022Q2,2026Q3,18
+国民经济季度运行,demand1_current,最终消费支出,%,economy_demand,最终消费支出对国内生产总值增长贡献率当季值 (%),1,0,,2022Q2,2026Q3,18
+国民经济季度运行,demand2_current,资本形成总额,%,economy_demand,资本形成总额对国内生产总值增长贡献率当季值 (%),1,0,,2022Q2,2026Q3,18
+国民经济季度运行,demand3_current,货物和服务净出口,%,economy_demand,货物和服务净出口对国内生产总值增长贡献率当季值 (%),1,0,,2022Q2,2026Q3,18
+国民经济季度运行,gdp_cumulative,国内生产总值,万亿元,economy_nominal,国内生产总值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,gdp_growth_cumulative,国内生产总值,%,economy_real_growth,国内生产总值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,sector1_cumulative,第一产业,万亿元,economy_nominal,第一产业增加值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,sector1_growth_cumulative,第一产业,%,economy_real_growth,第一产业增加值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,sector2_cumulative,第二产业,万亿元,economy_nominal,第二产业增加值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,sector2_growth_cumulative,第二产业,%,economy_real_growth,第二产业增加值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,sector3_cumulative,第三产业,万亿元,economy_nominal,第三产业增加值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,sector3_growth_cumulative,第三产业,%,economy_real_growth,第三产业增加值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,agriculture_cumulative,农林牧渔业,万亿元,economy_nominal,农林牧渔业增加值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,agriculture_growth_cumulative,农林牧渔业,%,economy_real_growth,农林牧渔业增加值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,industry_cumulative,工业,万亿元,economy_nominal,工业增加值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,industry_growth_cumulative,工业,%,economy_real_growth,工业增加值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,construction_cumulative,建筑业,万亿元,economy_nominal,建筑业增加值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,construction_growth_cumulative,建筑业,%,economy_real_growth,建筑业增加值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,trade_cumulative,批发和零售业,万亿元,economy_nominal,批发和零售业增加值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,trade_growth_cumulative,批发和零售业,%,economy_real_growth,批发和零售业增加值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,transport_cumulative,交通运输、仓储和邮政业,万亿元,economy_nominal,交通运输、仓储和邮政业增加值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,transport_growth_cumulative,交通运输、仓储和邮政业,%,economy_real_growth,交通运输、仓储和邮政业增加值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,hospitality_cumulative,住宿和餐饮业,万亿元,economy_nominal,住宿和餐饮业增加值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,hospitality_growth_cumulative,住宿和餐饮业,%,economy_real_growth,住宿和餐饮业增加值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,finance_cumulative,金融业,万亿元,economy_nominal,金融业增加值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,finance_growth_cumulative,金融业,%,economy_real_growth,金融业增加值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,estate_cumulative,房地产业,万亿元,economy_nominal,房地产业增加值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,estate_growth_cumulative,房地产业,%,economy_real_growth,房地产业增加值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,it_cumulative,信息传输、软件和信息技术服务业,万亿元,economy_nominal,信息传输、软件和信息技术服务业增加值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,it_growth_cumulative,信息传输、软件和信息技术服务业,%,economy_real_growth,信息传输、软件和信息技术服务业增加值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,business_cumulative,租赁和商务服务业,万亿元,economy_nominal,租赁和商务服务业增加值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,business_growth_cumulative,租赁和商务服务业,%,economy_real_growth,租赁和商务服务业增加值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,other_cumulative,其他服务业,万亿元,economy_nominal,其他行业增加值累计值 (亿元),0.0001,0,,2022Q2,2026Q3,18
+国民经济季度运行,other_growth_cumulative,其他服务业,%,economy_real_growth,其他行业增加值指数 (上年同期=100) 累计值,1,100,,2022Q2,2026Q3,18
+国民经济季度运行,share1_cumulative,第一产业,%,计算指标,,,,sector1_cumulative;gdp_cumulative,2022Q2,2026Q3,18
+国民经济季度运行,contrib1_cumulative,第一产业,%,economy_contribution,第一产业贡献率累计值 (%),1,0,,2022Q2,2026Q3,18
+国民经济季度运行,share2_cumulative,第二产业,%,计算指标,,,,sector2_cumulative;gdp_cumulative,2022Q2,2026Q3,18
+国民经济季度运行,contrib2_cumulative,第二产业,%,economy_contribution,第二产业贡献率累计值 (%),1,0,,2022Q2,2026Q3,18
+国民经济季度运行,share3_cumulative,第三产业,%,计算指标,,,,sector3_cumulative;gdp_cumulative,2022Q2,2026Q3,18
+国民经济季度运行,contrib3_cumulative,第三产业,%,economy_contribution,第三产业贡献率累计值 (%),1,0,,2022Q2,2026Q3,18
+国民经济季度运行,demand1_cumulative,最终消费支出,%,economy_demand,最终消费支出对国内生产总值增长贡献率累计值 (%),1,0,,2022Q2,2026Q3,18
+国民经济季度运行,demand2_cumulative,资本形成总额,%,economy_demand,资本形成总额对国内生产总值增长贡献率累计值 (%),1,0,,2022Q2,2026Q3,18
+国民经济季度运行,demand3_cumulative,货物和服务净出口,%,economy_demand,货物和服务净出口对国内生产总值增长贡献率累计值 (%),1,0,,2022Q2,2026Q3,18
+国民经济季度运行,qoq,GDP季调环比,%,economy_qoq,国内生产总值环比增长速度 (%),1,0,,2022Q2,2026Q3,18
+全国旅游与住宿,trips,国内游客,亿人次,tourism_domestic,国内游客 (百万人次),0.01,0,,2011,2025,15
+全国旅游与住宿,urban_trips,城镇居民出游,亿人次,tourism_domestic,城镇居民国内游客 (百万人次),0.01,0,,2011,2025,15
+全国旅游与住宿,rural_trips,农村居民出游,亿人次,tourism_domestic,农村居民国内游客 (百万人次),0.01,0,,2011,2025,15
+全国旅游与住宿,spending,国内旅游总花费,万亿元,tourism_domestic,国内旅游总花费 (亿元),0.0001,0,,2011,2025,15
+全国旅游与住宿,urban_spending,城镇居民旅游花费,万亿元,tourism_domestic,城镇居民国内旅游总花费 (亿元),0.0001,0,,2011,2025,15
+全国旅游与住宿,rural_spending,农村居民旅游花费,万亿元,tourism_domestic,农村居民国内旅游总花费 (亿元),0.0001,0,,2011,2025,15
+全国旅游与住宿,per_trip,国内旅游人均花费,元,tourism_domestic,国内旅游人均花费 (元),1,0,,2011,2025,15
+全国旅游与住宿,urban_per_trip,城镇居民人均花费,元,tourism_domestic,城镇居民国内旅游人均花费 (元),1,0,,2011,2025,15
+全国旅游与住宿,rural_per_trip,农村居民人均花费,元,tourism_domestic,农村居民国内旅游人均花费 (元),1,0,,2011,2025,15
+全国旅游与住宿,agencies,旅行社,家,tourism_development,旅行社数 (个),1,0,,2011,2024,14
+全国旅游与住宿,hotels,星级饭店,家,tourism_development,星级饭店总数 (个),1,0,,2011,2024,14
+全国旅游与住宿,inbound,入境游客,亿人次,tourism_development,入境游客 (万人次),0.0001,0,,2011,2025,12
+全国旅游与住宿,foreign,外国人入境游客,亿人次,tourism_development,外国人入境游客 (万人次),0.0001,0,,2011,2025,12
+全国旅游与住宿,outbound,国内居民出境,亿人次,tourism_development,国内居民出境人数 (万人次),0.0001,0,,2011,2025,12
+全国旅游与住宿,inbound_revenue,国际旅游收入,亿美元,tourism_income,国际旅游收入 (亿美元),1,0,,2011,2025,12
+全国旅游与住宿,net_trips,入境减出境人次差,亿人次,计算指标,,,,inbound;outbound,2011,2025,12
+全国旅游与住宿,hmt,港澳台游客（差额）,亿人次,计算指标,,,,inbound;foreign,2011,2025,12
+全国旅游与住宿,spend_gap,城乡人均花费差,元,计算指标,,,,urban_per_trip;rural_per_trip,2011,2025,15
+全国旅游与住宿,income_part1,长途交通,亿美元,tourism_income,长途交通国际旅游外汇收入 (亿美元),1,0,,2011,2019,9
+全国旅游与住宿,income_part6,游览,亿美元,tourism_income,游览国际旅游外汇收入 (亿美元),1,0,,2011,2019,9
+全国旅游与住宿,income_part7,住宿,亿美元,tourism_income,住宿国际旅游外汇收入 (亿美元),1,0,,2011,2019,9
+全国旅游与住宿,income_part8,餐饮,亿美元,tourism_income,餐饮国际旅游外汇收入 (亿美元),1,0,,2011,2019,9
+全国旅游与住宿,income_part9,购物,亿美元,tourism_income,商品销售国际旅游外汇收入 (亿美元),1,0,,2011,2019,9
+全国旅游与住宿,income_part10,娱乐,亿美元,tourism_income,娱乐国际旅游外汇收入 (亿美元),1,0,,2011,2019,9
+全国旅游与住宿,income_part11,邮电通讯,亿美元,tourism_income,邮电通讯国际旅游外汇收入 (亿美元),1,0,,2011,2019,9
+全国旅游与住宿,income_part12,市内交通,亿美元,tourism_income,市内交通国际旅游外汇收入 (亿美元),1,0,,2011,2019,9
+全国旅游与住宿,income_part13,其他服务,亿美元,tourism_income,其他服务国际旅游外汇收入 (亿美元),1,0,,2011,2019,9
+全国旅游与住宿,country2,朝鲜,万人次,tourism_origins,朝鲜入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country3,印度,万人次,tourism_origins,印度入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country4,印度尼西亚,万人次,tourism_origins,印度尼西亚入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country5,日本,万人次,tourism_origins,日本入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country6,马来西亚,万人次,tourism_origins,马来西亚入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country7,蒙古,万人次,tourism_origins,蒙古入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country8,菲律宾,万人次,tourism_origins,菲律宾入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country9,新加坡,万人次,tourism_origins,新加坡入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country10,韩国,万人次,tourism_origins,韩国入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country11,泰国,万人次,tourism_origins,泰国入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country14,英国,万人次,tourism_origins,英国入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country15,德国,万人次,tourism_origins,德国入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country16,法国,万人次,tourism_origins,法国入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country17,意大利,万人次,tourism_origins,意大利入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country18,荷兰,万人次,tourism_origins,荷兰入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country19,葡萄牙,万人次,tourism_origins,葡萄牙入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country20,瑞典,万人次,tourism_origins,瑞典入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country21,瑞士,万人次,tourism_origins,瑞士入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country22,俄罗斯,万人次,tourism_origins,俄罗斯入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country25,加拿大,万人次,tourism_origins,加拿大入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country26,美国,万人次,tourism_origins,美国入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country28,澳大利亚,万人次,tourism_origins,澳大利亚入境游客 (万人次),1,0,,2011,2018,8
+全国旅游与住宿,country29,新西兰,万人次,tourism_origins,新西兰入境游客 (万人次),1,0,,2011,2018,8
+全国教育发展,students_preschool,学前教育,万人,education_students,学前教育在校学生数 (万人),1,0,,2011,2025,15
+全国教育发展,students_primary,小学,万人,education_students,小学阶段在校学生数 (万人),1,0,,2011,2025,15
+全国教育发展,students_middle,初中,万人,education_students,初中阶段在校学生数 (万人),1,0,,2011,2025,15
+全国教育发展,students_high,普通高中,万人,education_students,普通高中在校学生数 (万人),1,0,,2011,2025,15
+全国教育发展,students_higher,普通、职业本专科,万人,education_students,普通、职业本专科在校学生数 (万人),1,0,,2011,2025,15
+全国教育发展,students_special,特殊教育,万人,education_students,特殊教育在校学生数 (万人),1,0,,2011,2025,15
+全国教育发展,teachers_preschool,学前教育,万人,education_teachers,学前教育专任教师数 (万人),1,0,,2011,2025,15
+全国教育发展,teachers_primary,小学,万人,education_teachers,小学阶段专任教师数 (万人),1,0,,2011,2025,15
+全国教育发展,teachers_middle,初中,万人,education_teachers,初中阶段专任教师数 (万人),1,0,,2011,2025,15
+全国教育发展,teachers_high,普通高中,万人,education_teachers,普通高中专任教师数 (万人),1,0,,2011,2025,15
+全国教育发展,teachers_higher,普通、职业本专科,万人,education_teachers,普通、职业高等学校专任教师数 (万人),1,0,,2011,2025,15
+全国教育发展,teachers_special,特殊教育,万人,education_teachers,特殊教育专任教师数 (万人),1,0,,2011,2025,15
+全国教育发展,schools_preschool,学前教育,所,education_schools,幼儿园数 (所),1,0,,2011,2025,15
+全国教育发展,schools_primary,小学,所,education_schools,普通小学学校数 (所),1,0,,2011,2025,15
+全国教育发展,schools_middle,初中,所,education_schools,初中学校数 (所),1,0,,2011,2025,15
+全国教育发展,schools_high,普通高中,所,education_schools,普通高中学校数 (所),1,0,,2011,2025,15
+全国教育发展,schools_higher,普通、职业本专科,所,education_schools,普通、职业高等学校数 (所),1,0,,2011,2025,15
+全国教育发展,schools_special,特殊教育,所,education_schools,特殊教育学校学校数 (所),1,0,,2011,2025,15
+全国教育发展,admissions_primary,小学,万人,education_admissions,小学阶段招生数 (万人),1,0,,2011,2025,15
+全国教育发展,admissions_middle,初中,万人,education_admissions,初中阶段招生数 (万人),1,0,,2011,2025,15
+全国教育发展,admissions_high,普通高中,万人,education_admissions,普通高中招生数 (万人),1,0,,2011,2025,15
+全国教育发展,admissions_higher,普通、职业本专科,万人,education_admissions,普通、职业本专科招生数 (万人),1,0,,2011,2025,15
+全国教育发展,admissions_special,特殊教育,万人,education_admissions,特殊教育招生数 (万人),1,0,,2011,2025,15
+全国教育发展,graduates_primary,小学,万人,education_graduates,小学阶段毕业生数 (万人),1,0,,2011,2025,15
+全国教育发展,graduates_middle,初中,万人,education_graduates,初中阶段毕业生数 (万人),1,0,,2011,2025,15
+全国教育发展,graduates_high,普通高中,万人,education_graduates,普通高中毕业生数 (万人),1,0,,2011,2025,15
+全国教育发展,graduates_higher,普通、职业本专科,万人,education_graduates,普通、职业本专科毕业生数 (万人),1,0,,2011,2025,15
+全国教育发展,graduates_special,特殊教育,万人,education_graduates,特殊教育毕业生数 (万人),1,0,,2011,2025,15
+全国教育发展,ratio_preschool,学前教育,人/教师,计算指标,,,,students_preschool;teachers_preschool,2011,2025,15
+全国教育发展,perschool_preschool,学前教育,人/所,计算指标,,,,students_preschool;schools_preschool,2011,2025,15
+全国教育发展,ratio_primary,小学,人/教师,计算指标,,,,students_primary;teachers_primary,2011,2025,15
+全国教育发展,perschool_primary,小学,人/所,计算指标,,,,students_primary;schools_primary,2011,2025,15
+全国教育发展,ratio_middle,初中,人/教师,计算指标,,,,students_middle;teachers_middle,2011,2025,15
+全国教育发展,perschool_middle,初中,人/所,计算指标,,,,students_middle;schools_middle,2011,2025,15
+全国教育发展,ratio_high,普通高中,人/教师,计算指标,,,,students_high;teachers_high,2011,2025,15
+全国教育发展,perschool_high,普通高中,人/所,计算指标,,,,students_high;schools_high,2011,2025,15
+全国教育发展,ratio_higher,普通、职业本专科,人/教师,计算指标,,,,students_higher;teachers_higher,2011,2025,15
+全国教育发展,perschool_higher,普通、职业本专科,人/所,计算指标,,,,students_higher;schools_higher,2011,2025,15
+全国教育发展,ratio_special,特殊教育,人/教师,计算指标,,,,students_special;teachers_special,2011,2025,15
+全国教育发展,perschool_special,特殊教育,人/所,计算指标,,,,students_special;schools_special,2011,2025,15
+全国教育发展,fund_total,教育经费总投入,亿元,education_funding_total,教育经费 (万元),0.0001,0,,2011,2024,14
+全国教育发展,fund_public,国家财政性,亿元,education_funding_public,国家财政性教育经费 (万元),0.0001,0,,2011,2024,14
+全国教育发展,fund_private,民办学校办学,亿元,education_funding_private,民办学校办学经费 (万元),0.0001,0,,2011,2024,14
+全国教育发展,fund_donation,社会捐赠,亿元,education_funding_donation,各类学校教育经费社会捐赠经费 (万元),0.0001,0,,2011,2024,14
+全国教育发展,fund_institution,事业收入,亿元,education_funding_institution,各类学校教育经费事业收入 (万元),0.0001,0,,2011,2024,14
+全国教育发展,fund_other,其他经费,亿元,education_funding_other,其他教育经费 (万元),0.0001,0,,2011,2024,14
+全国教育发展,annual_gdp,年度GDP,亿元,annual_gdp,国内生产总值 (亿元),1,0,,2016,2025,10
+全国教育发展,fund_gdp,财政性教育经费/GDP,%,计算指标,,,,fund_public;annual_gdp,2016,2024,9
+全国教育发展,fund_public_share,财政性教育经费占比,%,计算指标,,,,fund_public;fund_total,2011,2024,14
+全国教育发展,students_total,六类在校生合计,万人,计算指标,,,,students_preschool;students_primary;students_middle;students_high;students_higher;students_special,2011,2025,15
+全国教育发展,teachers_total,六类专任教师合计,万人,计算指标,,,,teachers_preschool;teachers_primary;teachers_middle;teachers_high;teachers_higher;teachers_special,2011,2025,15
+人口与居民生活,population,年末总人口,万人,population_total,年末总人口 (万人),1,0,,2011,2025,15
+人口与居民生活,male,男性人口,万人,population_total,男性人口 (万人),1,0,,2011,2025,15
+人口与居民生活,female,女性人口,万人,population_total,女性人口 (万人),1,0,,2011,2025,15
+人口与居民生活,urban,城镇人口,万人,population_total,城镇人口 (万人),1,0,,2011,2025,15
+人口与居民生活,rural,乡村人口,万人,population_total,乡村人口 (万人),1,0,,2011,2025,15
+人口与居民生活,birth,出生率,‰,population_rates,人口出生率 (‰),1,0,,2011,2025,15
+人口与居民生活,death,死亡率,‰,population_rates,人口死亡率 (‰),1,0,,2011,2025,15
+人口与居民生活,natural,自然增长率,‰,population_rates,人口自然增长率 (‰),1,0,,2011,2025,15
+人口与居民生活,young,0—14岁,万人,population_age,0-14岁人口 (万人),1,0,,2011,2025,15
+人口与居民生活,working,15—64岁,万人,population_age,15-64岁人口 (万人),1,0,,2011,2025,15
+人口与居民生活,old,65岁及以上,万人,population_age,65岁及以上人口 (万人),1,0,,2011,2025,15
+人口与居民生活,dependency,总抚养比,%,population_age,总抚养比 (%),1,0,,2011,2025,15
+人口与居民生活,young_dependency,少儿抚养比,%,population_age,少儿抚养比 (%),1,0,,2011,2025,15
+人口与居民生活,old_dependency,老年抚养比,%,population_age,老年抚养比 (%),1,0,,2011,2025,15
+人口与居民生活,income,全国居民,元,living_income,居民人均可支配收入 (元),1,0,,2011,2025,15
+人口与居民生活,urban_income,城镇居民,元,living_urban_income,城镇居民人均可支配收入 (元),1,0,,2011,2025,15
+人口与居民生活,rural_income,农村居民,元,living_rural_income,农村居民人均可支配收入 (元),1,0,,2011,2025,15
+人口与居民生活,median_income,收入中位数,元,living_income,居民人均可支配收入中位数 (元),1,0,,2013,2025,13
+人口与居民生活,wage,工资性收入,元,living_income,居民人均可支配工资性收入 (元),1,0,,2011,2025,15
+人口与居民生活,business,经营净收入,元,living_income,居民人均可支配经营净收入 (元),1,0,,2011,2025,15
+人口与居民生活,property,财产净收入,元,living_income,居民人均可支配财产净收入 (元),1,0,,2011,2025,15
+人口与居民生活,transfer,转移净收入,元,living_income,居民人均可支配转移净收入 (元),1,0,,2011,2025,15
+人口与居民生活,consumption,居民人均消费支出,元,living_spending,居民人均消费支出 (元),1,0,,2011,2025,15
+人口与居民生活,spend0,食品烟酒,元,living_spending,居民人均食品烟酒支出 (元),1,0,,2011,2025,15
+人口与居民生活,spend1,衣着,元,living_spending,居民人均衣着支出 (元),1,0,,2011,2025,15
+人口与居民生活,spend2,居住,元,living_spending,居民人均居住支出 (元),1,0,,2011,2025,15
+人口与居民生活,spend3,生活用品及服务,元,living_spending,居民人均生活用品及服务支出 (元),1,0,,2011,2025,15
+人口与居民生活,spend4,交通通信,元,living_spending,居民人均交通通信支出 (元),1,0,,2011,2025,15
+人口与居民生活,spend5,教育文化娱乐,元,living_spending,居民人均教育文化娱乐支出 (元),1,0,,2011,2025,15
+人口与居民生活,spend6,医疗保健,元,living_spending,居民人均医疗保健支出 (元),1,0,,2011,2025,15
+人口与居民生活,spend7,其他用品及服务,元,living_spending,居民人均其他用品及服务支出 (元),1,0,,2011,2025,15
+人口与居民生活,quintile0,低收入组,元,living_quintiles,低收入组家庭居民人均可支配收入 (元),1,0,,2013,2025,13
+人口与居民生活,quintile1,中间偏下组,元,living_quintiles,中间偏下收入组家庭居民人均可支配收入 (元),1,0,,2013,2025,13
+人口与居民生活,quintile2,中间收入组,元,living_quintiles,中间收入组家庭居民人均可支配收入 (元),1,0,,2013,2025,13
+人口与居民生活,quintile3,中间偏上组,元,living_quintiles,中间偏上收入组家庭居民人均可支配收入 (元),1,0,,2013,2025,13
+人口与居民生活,quintile4,高收入组,元,living_quintiles,高收入组家庭居民人均可支配收入 (元),1,0,,2013,2025,13
+人口与居民生活,engel,全国居民,%,living_engel,居民恩格尔系数 (%),1,0,,2011,2025,15
+人口与居民生活,urban_engel,城镇居民,%,living_engel,城镇居民恩格尔系数 (%),1,0,,2011,2025,15
+人口与居民生活,rural_engel,农村居民,%,living_engel,农村居民恩格尔系数 (%),1,0,,2011,2025,15
+人口与居民生活,urbanization,常住人口城镇化率,%,计算指标,,,,urban;population,2011,2025,15
+人口与居民生活,old_share,65岁及以上占比,%,计算指标,,,,old;population,2011,2025,15
+人口与居民生活,urban_rural_ratio,城乡居民收入比,倍,计算指标,,,,urban_income;rural_income,2011,2025,15
+人口与居民生活,income_gap,城乡居民收入差,元,计算指标,,,,urban_income;rural_income,2011,2025,15
